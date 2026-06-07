@@ -128,6 +128,37 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ---
 
+<!-- BLOG_POSTS_START -->
+<!-- BLOG_POSTS_END -->
+
+<!-- COMMITS_START -->
+<!-- COMMITS_END -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanitmann01&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann01&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanitmann01&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <div align="center">
 <sub>Built with ❤️ by Kanit Mann</sub>
 </div>
