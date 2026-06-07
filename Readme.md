@@ -134,6 +134,9 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- COMMITS_START -->
 <!-- COMMITS_END -->
 
+<!-- ACTIVITY_START -->
+<!-- ACTIVITY_END -->
+
 ---
 
 ## 📊 GitHub Stats

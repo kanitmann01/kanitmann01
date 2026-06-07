@@ -5,6 +5,7 @@ from pathlib import Path
 
 from rss_fetcher import fetch_latest_posts
 from commit_analyzer import analyze_recent_commits
+from activity_stream import generate_activity_stream
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
@@ -16,6 +17,8 @@ BLOG_START = "<!-- BLOG_POSTS_START -->"
 BLOG_END = "<!-- BLOG_POSTS_END -->"
 COMMITS_START = "<!-- COMMITS_START -->"
 COMMITS_END = "<!-- COMMITS_END -->"
+ACTIVITY_START = "<!-- ACTIVITY_START -->"
+ACTIVITY_END = "<!-- ACTIVITY_END -->"
 
 DEFAULT_USERNAME = "kanitmann01"
 DEFAULT_DAYS = 30
@@ -53,12 +56,23 @@ def _safe_fetch_commits(username: str, days: int) -> str:
         return "## 🔨 What I've Been Building\n\nNo recent activity to show. Working on something cool behind the scenes!\n"
 
 
+def _safe_fetch_activity(username: str) -> str:
+    try:
+        result = generate_activity_stream(username=username)
+        logger.info("Activity stream generated successfully")
+        return result
+    except Exception as exc:
+        logger.warning("Failed to generate activity stream: %s", exc)
+        return "## ⚡ Recent Activity\n\nNo recent activity to show.\n"
+
+
 def generate_readme(
     readme_path: Path = README_PATH,
     username: str = DEFAULT_USERNAME,
     days: int = DEFAULT_DAYS,
     blog_content: str = None,
     commits_content: str = None,
+    activity_content: str = None,
 ) -> str:
     template = readme_path.read_text(encoding="utf-8")
 
@@ -68,8 +82,12 @@ def generate_readme(
     if commits_content is None:
         commits_content = _safe_fetch_commits(username, days)
 
+    if activity_content is None:
+        activity_content = _safe_fetch_activity(username)
+
     updated = _replace_section(template, BLOG_START, BLOG_END, blog_content.strip())
     updated = _replace_section(updated, COMMITS_START, COMMITS_END, commits_content.strip())
+    updated = _replace_section(updated, ACTIVITY_START, ACTIVITY_END, activity_content.strip())
 
     return updated
 
