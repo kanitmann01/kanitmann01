@@ -1,4 +1,4 @@
-﻿# GitHub Stats Widgets
+# GitHub Stats Widgets
 
 This document contains the markdown snippets for all dynamic stats widgets displayed on the profile README.
 
