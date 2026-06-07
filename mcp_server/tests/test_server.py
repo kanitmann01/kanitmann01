@@ -1,5 +1,5 @@
 import pytest
-from mcp_server.server import get_projects, get_skills, get_experience
+from mcp_server.server import get_projects, get_skills, get_experience, get_availability
 
 
 class TestGetProjects:
@@ -127,3 +127,57 @@ class TestGetExperience:
     def test_returns_two_experiences(self):
         result = get_experience()
         assert len(result) == 2
+
+
+class TestGetAvailability:
+    def test_returns_dict(self):
+        result = get_availability()
+        assert isinstance(result, dict)
+
+    def test_has_required_keys(self):
+        result = get_availability()
+        required = {"status", "target_roles", "graduation", "contact"}
+        assert required.issubset(result.keys())
+
+    def test_status_seeking(self):
+        result = get_availability()
+        assert "seeking" in result["status"].lower() or "full-time" in result["status"].lower()
+
+    def test_target_roles_is_list(self):
+        result = get_availability()
+        assert isinstance(result["target_roles"], list)
+        assert len(result["target_roles"]) >= 3
+
+    def test_target_roles_contain_data_engineering(self):
+        result = get_availability()
+        roles_lower = [r.lower() for r in result["target_roles"]]
+        assert any("data engineering" in r for r in roles_lower)
+
+    def test_target_roles_contain_analytics(self):
+        result = get_availability()
+        roles_lower = [r.lower() for r in result["target_roles"]]
+        assert any("analytics" in r for r in roles_lower)
+
+    def test_target_roles_contain_ml(self):
+        result = get_availability()
+        roles_lower = [r.lower() for r in result["target_roles"]]
+        assert any("machine learning" in r or "ml" in r for r in roles_lower)
+
+    def test_graduation_may_2026(self):
+        result = get_availability()
+        assert "2026" in result["graduation"]
+        assert "may" in result["graduation"].lower()
+
+    def test_contact_has_email(self):
+        result = get_availability()
+        assert "email" in result["contact"]
+        assert "@" in result["contact"]["email"]
+
+    def test_contact_has_linkedin(self):
+        result = get_availability()
+        assert "linkedin" in result["contact"]
+        assert "kanitmann" in result["contact"]["linkedin"]
+
+    def test_contact_email_value(self):
+        result = get_availability()
+        assert result["contact"]["email"] == "kanitmann01@gmail.com"

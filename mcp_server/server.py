@@ -79,6 +79,34 @@ def get_skills() -> dict[str, list[str]]:
     }
 
 
+def get_availability() -> dict:
+    """
+    Returns current availability information for job opportunities.
+
+    Contains:
+      - status (str): Current employment-seeking status
+      - target_roles (list[str]): Desired role types
+      - graduation (str): Expected graduation date
+      - contact (dict): Preferred contact methods (email, LinkedIn)
+
+    Returns:
+        dict: Availability information dictionary.
+    """
+    return {
+        "status": "Seeking full-time roles",
+        "target_roles": [
+            "Data Engineering",
+            "Analytics",
+            "Machine Learning",
+        ],
+        "graduation": "May 2026",
+        "contact": {
+            "email": "kanitmann01@gmail.com",
+            "linkedin": "linkedin.com/in/kanitmann",
+        },
+    }
+
+
 def get_experience() -> list[dict]:
     """
     Returns work history with company, role, dates, description, and achievements.
@@ -173,6 +201,23 @@ def experience() -> str:
         str: JSON string containing a list of experience objects.
     """
     return json.dumps(get_experience(), indent=2)
+
+
+@mcp.tool()
+def availability() -> str:
+    """
+    Get current availability and contact information.
+
+    Returns structured JSON data about Kanit's job availability:
+      - Status: Seeking full-time roles
+      - Target roles: Data Engineering, Analytics, Machine Learning
+      - Graduation: May 2026
+      - Contact: email (kanitmann01@gmail.com), LinkedIn (linkedin.com/in/kanitmann)
+
+    Returns:
+        str: JSON string containing availability information.
+    """
+    return json.dumps(get_availability(), indent=2)
 
 
 if __name__ == "__main__":
