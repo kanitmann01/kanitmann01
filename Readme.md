@@ -1,18 +1,133 @@
-<h1 align="center">Hi 👋, I'm Kanit Mann</h1>
-<h3 align="center">An enthusiast coding to make the world better</h3>
+<div align="center">
 
--   🌱 I’m currently learning **TensorFlow and Ski-kit Learn**
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=60&lines=Data+%26+ML+Engineer;Ex-Ericsson+%C2%B7+Ex-NetSTAR;Building+ML+pipelines;Cloud+Infrastructure;Threat+Intelligence" alt="Typing SVG" />
 
--   🤔 I’m looking for help with **Visualizations using Tableau**
+</div>
 
--   💬 Ask me about **C++, JS, ReactJS, NextJS, Python**
+---
 
--   📚 Currently I am reading **Gilbert Stang - Linear Algebra and its Applications**
+## About
 
--   📫 Contact me anytime at **kanitmann@arizona.edu**
+I'm a **Data & ML Engineer** with hands-on experience building production-grade systems across machine learning, cloud infrastructure, and threat intelligence.
 
--   ⚡ Fun fact **Tea is love ❣️**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I believe in the saying, **"You grow when you start getting comfortable with being uncomfortable."** <br/>
+### 🛡️ NetSTAR — ML Engineer
+- Built a **threat intelligence platform** analyzing **1B+ phishing URLs**
+- Engineered ML pipelines for real-time threat detection and classification
+- Developed models to identify malicious domains and brand impersonation
 
-> Ghost of [kanitmann](https://www.github.com/kanitmann)
+</td>
+<td width="50%" valign="top">
+
+### 📡 Ericsson — Cloud/Infra Engineer
+- Led **GCP migration** for enterprise telecom infrastructure
+- Managed **2,000+ servers** across hybrid cloud environments
+- Automated deployment pipelines and infrastructure provisioning
+
+</td>
+</tr>
+</table>
+
+> 🎓 **MS in Data Science | Graduated May 2026**
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>ML & Data Science</b></summary>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data Platforms & Cloud</b></summary>
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Visualization & BI</b></summary>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Techniques</b></summary>
+
+![A/B Testing](https://img.shields.io/badge/A_B_Testing-00599C?style=for-the-badge&logo=google&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Causal Inference](https://img.shields.io/badge/Causal_Inference-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+---
+
+## Featured Projects
+
+### 🔐 Brand Guard
+**FastAPI capstone for fake brand login detection**
+
+ML-powered system that detects fraudulent login pages impersonating legitimate brands. Built with FastAPI backend and ML classification pipeline.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square)
+
+### 🌐 kanit.codes
+**Personal portfolio with tactile feedback system**
+
+Interactive portfolio website featuring a unique tactile feedback system for enhanced user engagement and accessibility.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+## Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanitmann01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanitmann)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanitmann@arizona.edu)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanit.codes)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ by Kanit Mann</sub>
+</div>
