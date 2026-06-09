@@ -1,0 +1,62 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kanitmann01
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: UTC
+          config_theme: tokyonight
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+  metrics-languages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate languages metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kanitmann01
+          template: classic
+          base: ""
+          config_timezone: UTC
+          config_theme: tokyonight
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_colors: tokyonight
+          plugin_languages_other: yes

@@ -169,10 +169,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanitmann01&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanitmann01&layout=compact&theme=tokyonight&hide_border=true&card_width=400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanitmann01&theme=tokyonight&hide_border=true)
+![GitHub Stats](./github-metrics.svg)
+![Top Languages](./github-metrics-languages.svg)
 
 </div>
 
