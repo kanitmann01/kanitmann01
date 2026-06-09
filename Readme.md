@@ -131,9 +131,9 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- BLOG_POSTS_START -->
 ## 📝 Latest Blog Posts
 
+- [The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
 - [Technical Blog 3: The Wonderful World of Windows Registry](https://kanit.codes/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
 - [Technical Blog 2: Command Line Interface vs Graphical User Interface](https://kanit.codes/articles/technical-blog-2) (Sun, 14 Sep 2025 00:00:00 GMT)
-- [CCRB Allegations Analysis (Ongoing)](https://kanit.codes/articles/ccrb-allegations-analysis) (Mon, 08 Sep 2025 00:00:00 GMT)
 <!-- BLOG_POSTS_END -->
 
 <!-- COMMITS_START -->
@@ -143,12 +143,14 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 16 commits
+- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 17 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: replace broken github-readme-stats with lowlighter/metrics action](https://github.com/kanitmann01/kanitmann01/commit/1f0e10b)
+- 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-7-github-action' into feature/issue-9-activity-stream](https://github.com/kanitmann01/kanitmann01/commit/4a5e380)
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: add real-time activity stream (#9)](https://github.com/kanitmann01/kanitmann01/commit/1e1d270)
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: ci: add GitHub Actions workflow for daily README auto-update (#7)](https://github.com/kanitmann01/kanitmann01/commit/b5e966b)
@@ -157,10 +159,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: add README auto-update integration layer (#6)](https://github.com/kanitmann01/kanitmann01/commit/9cb8e7f)
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-5-mcp-server'](https://github.com/kanitmann01/kanitmann01/commit/d7ad705)
 - 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-3-commit-analyzer'](https://github.com/kanitmann01/kanitmann01/commit/194b665)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-4-stats-widgets' into feature/issue-5-mcp-server](https://github.com/kanitmann01/kanitmann01/commit/fbe1b79)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-2-rss-fetcher'](https://github.com/kanitmann01/kanitmann01/commit/1fe628f)
 
-*Last updated: 2026-06-09 02:08 UTC*
+*Last updated: 2026-06-09 10:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
