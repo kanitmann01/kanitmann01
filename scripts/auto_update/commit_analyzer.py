@@ -8,6 +8,12 @@ import requests
 GITHUB_API_BASE = "https://api.github.com"
 SEARCH_COMMITS_URL = f"{GITHUB_API_BASE}/search/commits"
 
+KNOWN_REPOS = [
+    "kanitmann01/kanitmann01",
+    "kanitmann01/profile-kanitmann",
+    "kanitmann01/capstone",
+]
+
 
 def fetch_commits(username, since_date, token=None):
     headers = {
@@ -26,6 +32,36 @@ def fetch_commits(username, since_date, token=None):
         return data.get("items", [])
     except Exception:
         return []
+
+
+def fetch_commits_from_repos(username, since_date, token=None):
+    headers = {"Accept": "application/vnd.github.v3+json"}
+    if token:
+        headers["Authorization"] = f"token {token}"
+
+    all_commits = []
+    for repo in KNOWN_REPOS:
+        url = f"{GITHUB_API_BASE}/repos/{repo}/commits"
+        params = {
+            "author": username,
+            "since": f"{since_date}T00:00:00Z",
+            "per_page": 100,
+        }
+        try:
+            resp = requests.get(url, headers=headers, params=params, timeout=30)
+            resp.raise_for_status()
+            commits = resp.json()
+            for commit in commits:
+                commit["repository"] = {
+                    "full_name": repo,
+                    "html_url": f"https://github.com/{repo}",
+                    "language": None,
+                }
+            all_commits.extend(commits)
+        except Exception:
+            continue
+
+    return all_commits
 
 
 def group_commits_by_repo(commits):
@@ -94,8 +130,18 @@ def analyze_recent_commits(username, days=30):
     token = os.environ.get("GITHUB_TOKEN")
     since_date = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
 
-    commits = fetch_commits(username, since_date, token=token)
-    grouped = group_commits_by_repo(commits)
+    search_commits = fetch_commits(username, since_date, token=token)
+    repo_commits = fetch_commits_from_repos(username, since_date, token=token)
+
+    seen_shas = set()
+    all_commits = []
+    for commit in search_commits + repo_commits:
+        sha = commit.get("sha")
+        if sha and sha not in seen_shas:
+            seen_shas.add(sha)
+            all_commits.append(commit)
+
+    grouped = group_commits_by_repo(all_commits)
     languages = get_repo_languages(grouped)
     markdown = format_markdown(grouped, languages, days)
 

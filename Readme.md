@@ -143,24 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 31 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 17 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: replace broken github-readme-stats with lowlighter/metrics action](https://github.com/kanitmann01/kanitmann01/commit/1f0e10b)
-- 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-7-github-action' into feature/issue-9-activity-stream](https://github.com/kanitmann01/kanitmann01/commit/4a5e380)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: add real-time activity stream (#9)](https://github.com/kanitmann01/kanitmann01/commit/1e1d270)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: ci: add GitHub Actions workflow for daily README auto-update (#7)](https://github.com/kanitmann01/kanitmann01/commit/b5e966b)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-6-markdown-integration' into feature/issue-8-mcp-availability](https://github.com/kanitmann01/kanitmann01/commit/91293dc)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: add availability tool, Docker deployment, and integration tests (#8)](https://github.com/kanitmann01/kanitmann01/commit/c8326d8)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: feat: add README auto-update integration layer (#6)](https://github.com/kanitmann01/kanitmann01/commit/9cb8e7f)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-5-mcp-server'](https://github.com/kanitmann01/kanitmann01/commit/d7ad705)
-- 🔨 **Jun 07, 2026** — [Committed to `kanitmann01/kanitmann01`: Merge branch 'feature/issue-3-commit-analyzer'](https://github.com/kanitmann01/kanitmann01/commit/194b665)
+- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3)
+- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3d3a8097a34bfd9f848c1120eeddda8c49)
+- 🔨 **Jun 10, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: IMAT private learning platform](https://github.com/kanitmann01/profile-kanitmann/commit/9f25150)
+- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: IMAT private learning platform](https://github.com/kanitmann01/profile-kanitmann/commit/9f2515035ff2573f7c886f522e24fa573ab195b0)
+- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: revert replyTo to match Resend SDK type definitions](https://github.com/kanitmann01/profile-kanitmann/commit/d7c615b)
+- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: revert replyTo to match Resend SDK type definitions](https://github.com/kanitmann01/profile-kanitmann/commit/d7c615b078e0cac11845ef6998582cf523b0609f)
+- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add error handling to contact server action and fix reply_to field](https://github.com/kanitmann01/profile-kanitmann/commit/0196e21)
+- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add error handling to contact server action and fix reply_to field](https://github.com/kanitmann01/profile-kanitmann/commit/0196e21c7830c1ea07eb560b9072aca0c9ac430c)
+- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: replace mailto contact form with Resend server action](https://github.com/kanitmann01/profile-kanitmann/commit/3700faf)
+- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: replace mailto contact form with Resend server action](https://github.com/kanitmann01/profile-kanitmann/commit/3700faf5bb6d0f645d328b9aea0b3e965c7767e0)
 
-*Last updated: 2026-06-11 02:42 UTC*
+*Last updated: 2026-06-11 10:25 UTC*
 <!-- ACTIVITY_END -->
 
 ---
