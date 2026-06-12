@@ -143,25 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 31 commits
-- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 17 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 34 commits
+- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c)
+- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c519a60a313cd8f20aa44af68a507c9d17)
+- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b11)
+- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b119ec0e5bd0f0636492c67373df36d11ff3)
+- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a39)
+- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a398320a360625b994f657c5d2ff3801776a)
+- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/kanitmann01`: fix: improve commit analyzer to fetch from known repos directly](https://github.com/kanitmann01/kanitmann01/commit/76535dd)
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3)
 - 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3d3a8097a34bfd9f848c1120eeddda8c49)
 - 🔨 **Jun 10, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: IMAT private learning platform](https://github.com/kanitmann01/profile-kanitmann/commit/9f25150)
-- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: IMAT private learning platform](https://github.com/kanitmann01/profile-kanitmann/commit/9f2515035ff2573f7c886f522e24fa573ab195b0)
-- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: revert replyTo to match Resend SDK type definitions](https://github.com/kanitmann01/profile-kanitmann/commit/d7c615b)
-- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: revert replyTo to match Resend SDK type definitions](https://github.com/kanitmann01/profile-kanitmann/commit/d7c615b078e0cac11845ef6998582cf523b0609f)
-- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add error handling to contact server action and fix reply_to field](https://github.com/kanitmann01/profile-kanitmann/commit/0196e21)
-- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add error handling to contact server action and fix reply_to field](https://github.com/kanitmann01/profile-kanitmann/commit/0196e21c7830c1ea07eb560b9072aca0c9ac430c)
-- 🔨 **Jun 09, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: replace mailto contact form with Resend server action](https://github.com/kanitmann01/profile-kanitmann/commit/3700faf)
-- 🚀 **Jun 10, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: replace mailto contact form with Resend server action](https://github.com/kanitmann01/profile-kanitmann/commit/3700faf5bb6d0f645d328b9aea0b3e965c7767e0)
 
-*Last updated: 2026-06-11 10:25 UTC*
+*Last updated: 2026-06-12 02:38 UTC*
 <!-- ACTIVITY_END -->
 
 ---
