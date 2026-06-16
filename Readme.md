@@ -143,25 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 34 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 36 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f)
+- 🚀 **Jun 16, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f06f30cb79e36e867cefdfdf459ae4cd2a)
+- 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(types): add react-katex declaration shim](https://github.com/kanitmann01/profile-kanitmann/commit/4af69e0)
+- 🚀 **Jun 16, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(types): add react-katex declaration shim](https://github.com/kanitmann01/profile-kanitmann/commit/4af69e073c54d5a7844c616b4bccb3ef1257f2a3)
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c)
 - 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c519a60a313cd8f20aa44af68a507c9d17)
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b11)
 - 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b119ec0e5bd0f0636492c67373df36d11ff3)
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a39)
 - 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a398320a360625b994f657c5d2ff3801776a)
-- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/kanitmann01`: fix: improve commit analyzer to fetch from known repos directly](https://github.com/kanitmann01/kanitmann01/commit/76535dd)
-- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3)
-- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): complete note overhaul with enriched content and UX improvements](https://github.com/kanitmann01/profile-kanitmann/commit/0ec3fb3d3a8097a34bfd9f848c1120eeddda8c49)
-- 🔨 **Jun 10, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: IMAT private learning platform](https://github.com/kanitmann01/profile-kanitmann/commit/9f25150)
 
-*Last updated: 2026-06-15 02:47 UTC*
+*Last updated: 2026-06-16 02:49 UTC*
 <!-- ACTIVITY_END -->
 
 ---
