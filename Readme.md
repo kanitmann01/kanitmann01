@@ -145,11 +145,13 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 - [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 36 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
+- [kanitmann01/apply-job](https://github.com/kanitmann01/apply-job) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 16, 2026** — [Committed to `kanitmann01/apply-job`: Initial: resume JSON, writing samples, and PRD](https://github.com/kanitmann01/apply-job/commit/bb70ced)
 - 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f)
 - 🚀 **Jun 16, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f06f30cb79e36e867cefdfdf459ae4cd2a)
 - 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(types): add react-katex declaration shim](https://github.com/kanitmann01/profile-kanitmann/commit/4af69e0)
@@ -159,9 +161,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b11)
 - 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b119ec0e5bd0f0636492c67373df36d11ff3)
 - 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a39)
-- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a398320a360625b994f657c5d2ff3801776a)
 
-*Last updated: 2026-06-16 02:49 UTC*
+*Last updated: 2026-06-17 00:36 UTC*
 <!-- ACTIVITY_END -->
 
 ---
