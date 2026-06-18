@@ -131,9 +131,9 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- BLOG_POSTS_START -->
 ## 📝 Latest Blog Posts
 
+- [The Fable 5 Digital Museum](https://kanit.codes/fable-5) (Tue, 09 Jun 2026 00:00:00 GMT)
 - [The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
 - [Technical Blog 3: The Wonderful World of Windows Registry](https://kanit.codes/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
-- [Technical Blog 2: Command Line Interface vs Graphical User Interface](https://kanit.codes/articles/technical-blog-2) (Sun, 14 Sep 2025 00:00:00 GMT)
 <!-- BLOG_POSTS_END -->
 
 <!-- COMMITS_START -->
@@ -143,26 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 36 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 54 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
-- [kanitmann01/apply-job](https://github.com/kanitmann01/apply-job) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Jun 16, 2026** — [Committed to `kanitmann01/apply-job`: Initial: resume JSON, writing samples, and PRD](https://github.com/kanitmann01/apply-job/commit/bb70ced)
-- 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f)
-- 🚀 **Jun 16, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #114 from kanitmann01/fix/react-katex-types](https://github.com/kanitmann01/profile-kanitmann/commit/3b7454f06f30cb79e36e867cefdfdf459ae4cd2a)
-- 🔨 **Jun 15, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(types): add react-katex declaration shim](https://github.com/kanitmann01/profile-kanitmann/commit/4af69e0)
-- 🚀 **Jun 16, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(types): add react-katex declaration shim](https://github.com/kanitmann01/profile-kanitmann/commit/4af69e073c54d5a7844c616b4bccb3ef1257f2a3)
-- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c)
-- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: trigger fresh deployment check](https://github.com/kanitmann01/profile-kanitmann/commit/349ca6c519a60a313cd8f20aa44af68a507c9d17)
-- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b11)
-- 🚀 **Jun 11, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add missing Fragment import in breadcrumb component](https://github.com/kanitmann01/profile-kanitmann/commit/fdf9b119ec0e5bd0f0636492c67373df36d11ff3)
-- 🔨 **Jun 11, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(imat): add learning UX features and redesign note page layout](https://github.com/kanitmann01/profile-kanitmann/commit/15e2a39)
+- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef6685)
+- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef66854a5acef238fe0fdd2d28d44f57833831c)
+- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c)
+- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c607da206c366b2b9e71a3980a15d121f8)
+- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3e)
+- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3eb4cd8ac6b28d7f0d0cf102a308fddc63b)
+- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(scripts): handle CRLF line endings in awesome-list parser split](https://github.com/kanitmann01/profile-kanitmann/commit/ba4108c)
+- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(scripts): handle CRLF line endings in awesome-list parser split](https://github.com/kanitmann01/profile-kanitmann/commit/ba4108c3051449354fc1e5aecfd38c6fd9e0b66a)
+- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #115 from kanitmann01/feat/fable5-digital-museum](https://github.com/kanitmann01/profile-kanitmann/commit/bf29764)
+- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #115 from kanitmann01/feat/fable5-digital-museum](https://github.com/kanitmann01/profile-kanitmann/commit/bf29764a5077689c525e0572ebe20042ee4e4d20)
 
-*Last updated: 2026-06-17 00:36 UTC*
+*Last updated: 2026-06-18 00:37 UTC*
 <!-- ACTIVITY_END -->
 
 ---
