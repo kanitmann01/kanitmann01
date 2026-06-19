@@ -143,25 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 54 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 56 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: use animejs stagger function in useAnimeOnHover](https://github.com/kanitmann01/profile-kanitmann/commit/4a5ed29)
+- 🚀 **Jun 18, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: use animejs stagger function in useAnimeOnHover](https://github.com/kanitmann01/profile-kanitmann/commit/4a5ed29d33bd1d15e13e8e53cc9a2dc92e5ff776)
+- 🔨 **Jun 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: site-wide anime.js micro-interactions (phase 2)](https://github.com/kanitmann01/profile-kanitmann/commit/4502ef2)
+- 🚀 **Jun 18, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: site-wide anime.js micro-interactions (phase 2)](https://github.com/kanitmann01/profile-kanitmann/commit/4502ef288d14858a0eac2909aa86ef0ad0e94f70)
 - 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef6685)
 - 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef66854a5acef238fe0fdd2d28d44f57833831c)
 - 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c)
 - 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c607da206c366b2b9e71a3980a15d121f8)
 - 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3e)
 - 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3eb4cd8ac6b28d7f0d0cf102a308fddc63b)
-- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(scripts): handle CRLF line endings in awesome-list parser split](https://github.com/kanitmann01/profile-kanitmann/commit/ba4108c)
-- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(scripts): handle CRLF line endings in awesome-list parser split](https://github.com/kanitmann01/profile-kanitmann/commit/ba4108c3051449354fc1e5aecfd38c6fd9e0b66a)
-- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #115 from kanitmann01/feat/fable5-digital-museum](https://github.com/kanitmann01/profile-kanitmann/commit/bf29764)
-- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #115 from kanitmann01/feat/fable5-digital-museum](https://github.com/kanitmann01/profile-kanitmann/commit/bf29764a5077689c525e0572ebe20042ee4e4d20)
 
-*Last updated: 2026-06-18 00:37 UTC*
+*Last updated: 2026-06-19 00:40 UTC*
 <!-- ACTIVITY_END -->
 
 ---
