@@ -143,25 +143,25 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 56 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 64 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Jun 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: use animejs stagger function in useAnimeOnHover](https://github.com/kanitmann01/profile-kanitmann/commit/4a5ed29)
-- 🚀 **Jun 18, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: use animejs stagger function in useAnimeOnHover](https://github.com/kanitmann01/profile-kanitmann/commit/4a5ed29d33bd1d15e13e8e53cc9a2dc92e5ff776)
-- 🔨 **Jun 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: site-wide anime.js micro-interactions (phase 2)](https://github.com/kanitmann01/profile-kanitmann/commit/4502ef2)
-- 🚀 **Jun 18, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: site-wide anime.js micro-interactions (phase 2)](https://github.com/kanitmann01/profile-kanitmann/commit/4502ef288d14858a0eac2909aa86ef0ad0e94f70)
-- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef6685)
-- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: Merge pull request #116 from kanitmann01/fix/issue-111-fable-in-articles](https://github.com/kanitmann01/profile-kanitmann/commit/4ef66854a5acef238fe0fdd2d28d44f57833831c)
-- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c)
-- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: untrack data/.fable5-seen.json (runtime cache, add to .gitignore)](https://github.com/kanitmann01/profile-kanitmann/commit/f057f2c607da206c366b2b9e71a3980a15d121f8)
-- 🔨 **Jun 17, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3e)
-- 🚀 **Jun 17, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(articles): promote Fable 5 to top article, add museum entry (#111)](https://github.com/kanitmann01/profile-kanitmann/commit/c26be3eb4cd8ac6b28d7f0d0cf102a308fddc63b)
+- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d81)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d814aa235e49bcf53ca7b1e26dd0ba7301b0)
+- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: restore fable5 screenshot URLs while keeping Twitter demo URLs](https://github.com/kanitmann01/profile-kanitmann/commit/ccb8387)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: restore fable5 screenshot URLs while keeping Twitter demo URLs](https://github.com/kanitmann01/profile-kanitmann/commit/ccb8387e1e3f2629ac66f0046e1c6daea35090da)
+- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: revert: fable5 demo URLs back to Twitter/X links](https://github.com/kanitmann01/profile-kanitmann/commit/7bd00f4)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: revert: fable5 demo URLs back to Twitter/X links](https://github.com/kanitmann01/profile-kanitmann/commit/7bd00f4a6f05817d01453f36ff93297b35592994)
+- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df23035fd395753de9217a20b1d42377c43)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): move isEmbeddable definition before handlePlayClick to fix variable ordering](https://github.com/kanitmann01/profile-kanitmann/commit/c67cf59f99c868f1189eb49817f3a998874eec95)
+- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): add null check for site in museum-modal handlePlayClick](https://github.com/kanitmann01/profile-kanitmann/commit/58a49ded5f54d43500f28c257edc94c357d65cb2)
 
-*Last updated: 2026-06-19 00:40 UTC*
+*Last updated: 2026-06-20 00:31 UTC*
 <!-- ACTIVITY_END -->
 
 ---
