@@ -150,6 +150,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(footer): add magnific.com logo attribution link](https://github.com/kanitmann01/profile-kanitmann/commit/31a17dd4d82f28f1e86b867fae6751627b87c743)
+- 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): move useCallback before early return to fix React hooks order](https://github.com/kanitmann01/profile-kanitmann/commit/da7ec4d8f2176e28c06419fa5b7e0ff5829bd5a7)
 - 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d81)
 - 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d814aa235e49bcf53ca7b1e26dd0ba7301b0)
 - 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: restore fable5 screenshot URLs while keeping Twitter demo URLs](https://github.com/kanitmann01/profile-kanitmann/commit/ccb8387)
@@ -158,10 +160,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 - 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: revert: fable5 demo URLs back to Twitter/X links](https://github.com/kanitmann01/profile-kanitmann/commit/7bd00f4a6f05817d01453f36ff93297b35592994)
 - 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df)
 - 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df23035fd395753de9217a20b1d42377c43)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): move isEmbeddable definition before handlePlayClick to fix variable ordering](https://github.com/kanitmann01/profile-kanitmann/commit/c67cf59f99c868f1189eb49817f3a998874eec95)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): add null check for site in museum-modal handlePlayClick](https://github.com/kanitmann01/profile-kanitmann/commit/58a49ded5f54d43500f28c257edc94c357d65cb2)
 
-*Last updated: 2026-06-25 00:31 UTC*
+*Last updated: 2026-06-26 00:33 UTC*
 <!-- ACTIVITY_END -->
 
 ---
