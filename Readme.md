@@ -152,16 +152,10 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 - 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(footer): add magnific.com logo attribution link](https://github.com/kanitmann01/profile-kanitmann/commit/31a17dd4d82f28f1e86b867fae6751627b87c743)
 - 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): move useCallback before early return to fix React hooks order](https://github.com/kanitmann01/profile-kanitmann/commit/da7ec4d8f2176e28c06419fa5b7e0ff5829bd5a7)
-- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d81)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore: add generated og-image.png](https://github.com/kanitmann01/profile-kanitmann/commit/c084d814aa235e49bcf53ca7b1e26dd0ba7301b0)
-- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: restore fable5 screenshot URLs while keeping Twitter demo URLs](https://github.com/kanitmann01/profile-kanitmann/commit/ccb8387)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: restore fable5 screenshot URLs while keeping Twitter demo URLs](https://github.com/kanitmann01/profile-kanitmann/commit/ccb8387e1e3f2629ac66f0046e1c6daea35090da)
-- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: revert: fable5 demo URLs back to Twitter/X links](https://github.com/kanitmann01/profile-kanitmann/commit/7bd00f4)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: revert: fable5 demo URLs back to Twitter/X links](https://github.com/kanitmann01/profile-kanitmann/commit/7bd00f4a6f05817d01453f36ff93297b35592994)
-- 🔨 **Jun 19, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df)
-- 🚀 **Jun 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: remove anime.js references and fix build](https://github.com/kanitmann01/profile-kanitmann/commit/c7069df23035fd395753de9217a20b1d42377c43)
+- 📝 **Jun 09, 2026** — [Published blog post: The Fable 5 Digital Museum](https://kanit.codes/fable-5)
+- 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
 
-*Last updated: 2026-06-26 00:33 UTC*
+*Last updated: 2026-06-27 00:31 UTC*
 <!-- ACTIVITY_END -->
 
 ---
