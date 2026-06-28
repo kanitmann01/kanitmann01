@@ -143,19 +143,23 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 64 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 67 commits
 - [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Jun 26, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: add Claude 101 and AI Fluency certifications from Anthropic](https://github.com/kanitmann01/profile-kanitmann/commit/9fb6407)
+- 🚀 **Jun 27, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: add Claude 101 and AI Fluency certifications from Anthropic](https://github.com/kanitmann01/profile-kanitmann/commit/9fb64075940eefc5e9d23c41577a9ad3c0bbae37)
+- 🔨 **Jun 25, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(footer): add magnific.com logo attribution link](https://github.com/kanitmann01/profile-kanitmann/commit/31a17dd)
 - 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(footer): add magnific.com logo attribution link](https://github.com/kanitmann01/profile-kanitmann/commit/31a17dd4d82f28f1e86b867fae6751627b87c743)
+- 🔨 **Jun 25, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(fable5): move useCallback before early return to fix React hooks order](https://github.com/kanitmann01/profile-kanitmann/commit/da7ec4d)
 - 🚀 **Jun 25, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(fable5): move useCallback before early return to fix React hooks order](https://github.com/kanitmann01/profile-kanitmann/commit/da7ec4d8f2176e28c06419fa5b7e0ff5829bd5a7)
 - 📝 **Jun 09, 2026** — [Published blog post: The Fable 5 Digital Museum](https://kanit.codes/fable-5)
 - 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
 
-*Last updated: 2026-06-27 00:31 UTC*
+*Last updated: 2026-06-28 00:30 UTC*
 <!-- ACTIVITY_END -->
 
 ---
