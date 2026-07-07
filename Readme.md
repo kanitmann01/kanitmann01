@@ -150,16 +150,10 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Jun 29, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: switch open-issue from execSync to spawnSync to fix gh arg escaping](https://github.com/kanitmann01/profile-kanitmann/commit/f860a8d)
-- 🚀 **Jun 29, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: switch open-issue from execSync to spawnSync to fix gh arg escaping](https://github.com/kanitmann01/profile-kanitmann/commit/f860a8d9423f7b4f820c7aceaba058369e3b38b3)
-- 🔨 **Jun 29, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add --legacy-peer-deps to fable5 CI workflows](https://github.com/kanitmann01/profile-kanitmann/commit/ce69e8e)
-- 🚀 **Jun 29, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add --legacy-peer-deps to fable5 CI workflows](https://github.com/kanitmann01/profile-kanitmann/commit/ce69e8ee50bbbab34d6cc22142668a03b33c6b49)
-- 🔨 **Jun 29, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: downgrade date-fns to ^3.0.0 and bump CI node-version to 22](https://github.com/kanitmann01/profile-kanitmann/commit/b11c707)
-- 🚀 **Jun 29, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: downgrade date-fns to ^3.0.0 and bump CI node-version to 22](https://github.com/kanitmann01/profile-kanitmann/commit/b11c7076564d3df9a89af709ef19849a694026a7)
 - 📝 **Jun 09, 2026** — [Published blog post: The Fable 5 Digital Museum](https://kanit.codes/fable-5)
 - 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
 
-*Last updated: 2026-07-06 00:26 UTC*
+*Last updated: 2026-07-07 00:28 UTC*
 <!-- ACTIVITY_END -->
 
 ---
