@@ -143,8 +143,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 70 commits
-- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 18 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 62 commits
+- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 2 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
@@ -153,7 +153,7 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 - 📝 **Jun 09, 2026** — [Published blog post: The Fable 5 Digital Museum](https://kanit.codes/fable-5)
 - 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
 
-*Last updated: 2026-07-07 00:28 UTC*
+*Last updated: 2026-07-08 00:23 UTC*
 <!-- ACTIVITY_END -->
 
 ---
