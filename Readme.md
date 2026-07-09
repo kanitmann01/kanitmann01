@@ -150,10 +150,9 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 📝 **Jun 09, 2026** — [Published blog post: The Fable 5 Digital Museum](https://kanit.codes/fable-5)
-- 📝 **Jun 09, 2026** — [Published blog post: The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill)
+No recent activity to show.
 
-*Last updated: 2026-07-08 00:23 UTC*
+*Last updated: 2026-07-09 00:27 UTC*
 <!-- ACTIVITY_END -->
 
 ---
