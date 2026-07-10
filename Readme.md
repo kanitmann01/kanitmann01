@@ -143,8 +143,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 62 commits
-- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 2 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 46 commits
+- [kanitmann01/kanitmann01](https://github.com/kanitmann01/kanitmann01) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
@@ -152,7 +152,7 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 No recent activity to show.
 
-*Last updated: 2026-07-09 00:27 UTC*
+*Last updated: 2026-07-10 00:28 UTC*
 <!-- ACTIVITY_END -->
 
 ---
