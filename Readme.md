@@ -131,9 +131,9 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- BLOG_POSTS_START -->
 ## 📝 Latest Blog Posts
 
-- [The Fable 5 Digital Museum](https://kanit.codes/fable-5) (Tue, 09 Jun 2026 00:00:00 GMT)
-- [The Three-Line Skill That Changed Everything](https://kanit.codes/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
-- [Technical Blog 3: The Wonderful World of Windows Registry](https://kanit.codes/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
+- [The Fable 5 Digital Museum](https://www.kanit.codes/fable-5) (Tue, 09 Jun 2026 00:00:00 GMT)
+- [The Three-Line Skill That Changed Everything](https://www.kanit.codes/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
+- [Technical Blog 3: The Wonderful World of Windows Registry](https://www.kanit.codes/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
 <!-- BLOG_POSTS_END -->
 
 <!-- COMMITS_START -->
@@ -143,15 +143,24 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 6 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 15 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: add prominent University Guide and How to Improve cards to IMAT dashboard](https://github.com/kanitmann01/profile-kanitmann/commit/1e15f69)
+- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: add prominent University Guide and How to Improve cards to IMAT dashboard](https://github.com/kanitmann01/profile-kanitmann/commit/1e15f698b2d46fe3aa777f5fd00699e597628ff6)
+- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: add IMAT 2026 university comparison guide from PDF](https://github.com/kanitmann01/profile-kanitmann/commit/ece7b84)
+- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: add IMAT 2026 university comparison guide from PDF](https://github.com/kanitmann01/profile-kanitmann/commit/ece7b84e7db60e353f05a9188c1019a7b10c965f)
+- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add 'Contract' to WorkType union to fix production build](https://github.com/kanitmann01/profile-kanitmann/commit/f8da131)
+- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add 'Contract' to WorkType union to fix production build](https://github.com/kanitmann01/profile-kanitmann/commit/f8da131e2882a99dfac3923347dcdd0bd3404bf8)
+- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: refactor: split 669-line IMAT note page into deep layout modules (#149) (#160)](https://github.com/kanitmann01/profile-kanitmann/commit/de884c0)
+- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: refactor: split 669-line IMAT note page into deep layout modules (#149) (#160)](https://github.com/kanitmann01/profile-kanitmann/commit/de884c055779e31697a51adbfe07ed20304c859a)
+- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e2)
+- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e24df91b050d20839be0f1df9251ee4d37d)
 
-*Last updated: 2026-07-21 00:23 UTC*
+*Last updated: 2026-07-22 00:22 UTC*
 <!-- ACTIVITY_END -->
 
 ---
