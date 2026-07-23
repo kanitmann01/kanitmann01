@@ -131,9 +131,7 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 <!-- BLOG_POSTS_START -->
 ## 📝 Latest Blog Posts
 
-- [The Fable 5 Digital Museum](https://www.kanit.codes/fable-5) (Tue, 09 Jun 2026 00:00:00 GMT)
-- [The Three-Line Skill That Changed Everything](https://www.kanit.codes/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
-- [Technical Blog 3: The Wonderful World of Windows Registry](https://www.kanit.codes/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
+No recent posts available.
 <!-- BLOG_POSTS_END -->
 
 <!-- COMMITS_START -->
@@ -160,7 +158,7 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 - 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e2)
 - 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e24df91b050d20839be0f1df9251ee4d37d)
 
-*Last updated: 2026-07-22 00:22 UTC*
+*Last updated: 2026-07-23 00:23 UTC*
 <!-- ACTIVITY_END -->
 
 ---
