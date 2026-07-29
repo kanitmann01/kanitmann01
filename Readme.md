@@ -147,18 +147,9 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: add prominent University Guide and How to Improve cards to IMAT dashboard](https://github.com/kanitmann01/profile-kanitmann/commit/1e15f69)
-- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: add prominent University Guide and How to Improve cards to IMAT dashboard](https://github.com/kanitmann01/profile-kanitmann/commit/1e15f698b2d46fe3aa777f5fd00699e597628ff6)
-- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat: add IMAT 2026 university comparison guide from PDF](https://github.com/kanitmann01/profile-kanitmann/commit/ece7b84)
-- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat: add IMAT 2026 university comparison guide from PDF](https://github.com/kanitmann01/profile-kanitmann/commit/ece7b84e7db60e353f05a9188c1019a7b10c965f)
-- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: add 'Contract' to WorkType union to fix production build](https://github.com/kanitmann01/profile-kanitmann/commit/f8da131)
-- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: add 'Contract' to WorkType union to fix production build](https://github.com/kanitmann01/profile-kanitmann/commit/f8da131e2882a99dfac3923347dcdd0bd3404bf8)
-- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: refactor: split 669-line IMAT note page into deep layout modules (#149) (#160)](https://github.com/kanitmann01/profile-kanitmann/commit/de884c0)
-- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: refactor: split 669-line IMAT note page into deep layout modules (#149) (#160)](https://github.com/kanitmann01/profile-kanitmann/commit/de884c055779e31697a51adbfe07ed20304c859a)
-- 🔨 **Jul 21, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e2)
-- 🚀 **Jul 21, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix: collapse TactileFeedback system, compose TactileButton over Button, sync ADR 0007 (#147) (#159)](https://github.com/kanitmann01/profile-kanitmann/commit/7bab7e24df91b050d20839be0f1df9251ee4d37d)
+No recent activity to show.
 
-*Last updated: 2026-07-28 00:22 UTC*
+*Last updated: 2026-07-29 00:21 UTC*
 <!-- ACTIVITY_END -->
 
 ---
