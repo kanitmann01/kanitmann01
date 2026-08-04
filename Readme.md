@@ -141,15 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 9 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 21 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: ci: add .npmrc with legacy-peer-deps=true (#192)](https://github.com/kanitmann01/profile-kanitmann/commit/ff3da4f)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: ci: add .npmrc with legacy-peer-deps=true (#192)](https://github.com/kanitmann01/profile-kanitmann/commit/ff3da4ffba6d2e6f2468db00a3db7b2bf7efa857)
+- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(domain + CI): kanit.codes → kanitmann.com apex; force npm over pnpm in Workers Builds (#191)](https://github.com/kanitmann01/profile-kanitmann/commit/5a5fb4d)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(domain + CI): kanit.codes → kanitmann.com apex; force npm over pnpm in Workers Builds (#191)](https://github.com/kanitmann01/profile-kanitmann/commit/5a5fb4d003caa2e372498da5bbc93e4d9138716d)
+- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore(cloudflare): spike — adapter, wrangler.jsonc, build validation (#182) (#190)](https://github.com/kanitmann01/profile-kanitmann/commit/3b70a4b)
+- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore(cloudflare): spike — adapter, wrangler.jsonc, build validation (#182) (#190)](https://github.com/kanitmann01/profile-kanitmann/commit/3b70a4bbfc0a9d69dc5a814eaf1402a8c6edc188)
+- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(exp-02): count-up hero stats strip, reduced-motion safe (#166) (#189)](https://github.com/kanitmann01/profile-kanitmann/commit/4896f45)
+- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(exp-02): count-up hero stats strip, reduced-motion safe (#166) (#189)](https://github.com/kanitmann01/profile-kanitmann/commit/4896f450671b90918f1f202ec35bb29250b7a563)
+- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(exp-03): apply Instrument Serif italic as typographic accent (#167) (#188)](https://github.com/kanitmann01/profile-kanitmann/commit/1239429)
+- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(exp-03): apply Instrument Serif italic as typographic accent (#167) (#188)](https://github.com/kanitmann01/profile-kanitmann/commit/1239429233cfc00fd7597c09e39826595d26c4ee)
 
-*Last updated: 2026-08-03 00:24 UTC*
+*Last updated: 2026-08-04 00:24 UTC*
 <!-- ACTIVITY_END -->
 
 ---
