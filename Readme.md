@@ -141,24 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 21 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 41 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: ci: add .npmrc with legacy-peer-deps=true (#192)](https://github.com/kanitmann01/profile-kanitmann/commit/ff3da4f)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: ci: add .npmrc with legacy-peer-deps=true (#192)](https://github.com/kanitmann01/profile-kanitmann/commit/ff3da4ffba6d2e6f2468db00a3db7b2bf7efa857)
-- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(domain + CI): kanit.codes → kanitmann.com apex; force npm over pnpm in Workers Builds (#191)](https://github.com/kanitmann01/profile-kanitmann/commit/5a5fb4d)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(domain + CI): kanit.codes → kanitmann.com apex; force npm over pnpm in Workers Builds (#191)](https://github.com/kanitmann01/profile-kanitmann/commit/5a5fb4d003caa2e372498da5bbc93e4d9138716d)
-- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore(cloudflare): spike — adapter, wrangler.jsonc, build validation (#182) (#190)](https://github.com/kanitmann01/profile-kanitmann/commit/3b70a4b)
-- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore(cloudflare): spike — adapter, wrangler.jsonc, build validation (#182) (#190)](https://github.com/kanitmann01/profile-kanitmann/commit/3b70a4bbfc0a9d69dc5a814eaf1402a8c6edc188)
-- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(exp-02): count-up hero stats strip, reduced-motion safe (#166) (#189)](https://github.com/kanitmann01/profile-kanitmann/commit/4896f45)
-- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(exp-02): count-up hero stats strip, reduced-motion safe (#166) (#189)](https://github.com/kanitmann01/profile-kanitmann/commit/4896f450671b90918f1f202ec35bb29250b7a563)
-- 🔨 **Aug 03, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(exp-03): apply Instrument Serif italic as typographic accent (#167) (#188)](https://github.com/kanitmann01/profile-kanitmann/commit/1239429)
-- 🚀 **Aug 03, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(exp-03): apply Instrument Serif italic as typographic accent (#167) (#188)](https://github.com/kanitmann01/profile-kanitmann/commit/1239429233cfc00fd7597c09e39826595d26c4ee)
+- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore(netstar): temporarily disable live demo (backend work), keep research + architecture (#220)](https://github.com/kanitmann01/profile-kanitmann/commit/151430d)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore(netstar): temporarily disable live demo (backend work), keep research + architecture (#220)](https://github.com/kanitmann01/profile-kanitmann/commit/151430dfb081902a60a15a24200d8751c577c4cd)
+- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(reveal): re-apply .rv-* scroll-reveal rules to app/globals.css (#210) (#219)](https://github.com/kanitmann01/profile-kanitmann/commit/8a2ac1b)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(reveal): re-apply .rv-* scroll-reveal rules to app/globals.css (#210) (#219)](https://github.com/kanitmann01/profile-kanitmann/commit/8a2ac1b28d3c2f75fc715a4dcad45fd03a725a7f)
+- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: perf(netstar): re-quantize model int16 -> int8 to fit Workers 3MiB cap (#218)](https://github.com/kanitmann01/profile-kanitmann/commit/994cb51)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: perf(netstar): re-quantize model int16 -> int8 to fit Workers 3MiB cap (#218)](https://github.com/kanitmann01/profile-kanitmann/commit/994cb51919527baab8af77c0cec23f003382ee1a)
+- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(reveal): move .rv-* scroll-reveal rules into app/globals.css (#210) (#217)](https://github.com/kanitmann01/profile-kanitmann/commit/6b4ef0c)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(reveal): move .rv-* scroll-reveal rules into app/globals.css (#210) (#217)](https://github.com/kanitmann01/profile-kanitmann/commit/6b4ef0c196c0b07a95f1798c96f144f559a23596)
+- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(theme): no-op __name shim before next-themes bootstrap (#209) (#216)](https://github.com/kanitmann01/profile-kanitmann/commit/9c8981b)
+- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(theme): no-op __name shim before next-themes bootstrap (#209) (#216)](https://github.com/kanitmann01/profile-kanitmann/commit/9c8981b2a8bb3af237d6bcd8360d7b4e3a786f05)
 
-*Last updated: 2026-08-04 00:24 UTC*
+*Last updated: 2026-08-05 00:24 UTC*
 <!-- ACTIVITY_END -->
 
 ---
