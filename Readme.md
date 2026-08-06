@@ -141,24 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 41 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 52 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: chore(netstar): temporarily disable live demo (backend work), keep research + architecture (#220)](https://github.com/kanitmann01/profile-kanitmann/commit/151430d)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: chore(netstar): temporarily disable live demo (backend work), keep research + architecture (#220)](https://github.com/kanitmann01/profile-kanitmann/commit/151430dfb081902a60a15a24200d8751c577c4cd)
-- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(reveal): re-apply .rv-* scroll-reveal rules to app/globals.css (#210) (#219)](https://github.com/kanitmann01/profile-kanitmann/commit/8a2ac1b)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(reveal): re-apply .rv-* scroll-reveal rules to app/globals.css (#210) (#219)](https://github.com/kanitmann01/profile-kanitmann/commit/8a2ac1b28d3c2f75fc715a4dcad45fd03a725a7f)
-- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: perf(netstar): re-quantize model int16 -> int8 to fit Workers 3MiB cap (#218)](https://github.com/kanitmann01/profile-kanitmann/commit/994cb51)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: perf(netstar): re-quantize model int16 -> int8 to fit Workers 3MiB cap (#218)](https://github.com/kanitmann01/profile-kanitmann/commit/994cb51919527baab8af77c0cec23f003382ee1a)
-- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(reveal): move .rv-* scroll-reveal rules into app/globals.css (#210) (#217)](https://github.com/kanitmann01/profile-kanitmann/commit/6b4ef0c)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(reveal): move .rv-* scroll-reveal rules into app/globals.css (#210) (#217)](https://github.com/kanitmann01/profile-kanitmann/commit/6b4ef0c196c0b07a95f1798c96f144f559a23596)
-- 🔨 **Aug 04, 2026** — [Committed to `kanitmann01/profile-kanitmann`: fix(theme): no-op __name shim before next-themes bootstrap (#209) (#216)](https://github.com/kanitmann01/profile-kanitmann/commit/9c8981b)
-- 🚀 **Aug 04, 2026** — [Updated `kanitmann01/profile-kanitmann`: fix(theme): no-op __name shim before next-themes bootstrap (#209) (#216)](https://github.com/kanitmann01/profile-kanitmann/commit/9c8981b2a8bb3af237d6bcd8360d7b4e3a786f05)
+- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: perf(ask): load embeddings lazily from ASSETS binding, not bundled](https://github.com/kanitmann01/profile-kanitmann/commit/85576c3)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: perf(ask): load embeddings lazily from ASSETS binding, not bundled](https://github.com/kanitmann01/profile-kanitmann/commit/85576c3f0af58ae824a4db11b341c305e4455e77)
+- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.2 — NetSTAR loss-landscape scrollytelling (CSS scroll-driven + d3) (#227) (#239)](https://github.com/kanitmann01/profile-kanitmann/commit/cc68911)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.2 — NetSTAR loss-landscape scrollytelling (CSS scroll-driven + d3) (#227) (#239)](https://github.com/kanitmann01/profile-kanitmann/commit/cc689113acdd8995a42c27ab95e4a36bfb1895f8)
+- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.1 — Grounded portfolio agent (RAG over Workers AI, cited, Turnstile-gated) (#226) (#238)](https://github.com/kanitmann01/profile-kanitmann/commit/e59b7a5)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.1 — Grounded portfolio agent (RAG over Workers AI, cited, Turnstile-gated) (#226) (#238)](https://github.com/kanitmann01/profile-kanitmann/commit/e59b7a5173a45ddacb91da7c9fc9e31fbd4dea87)
+- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.4 — OGL shader warp + velocity skew (Lenis-driven) (#229) (#237)](https://github.com/kanitmann01/profile-kanitmann/commit/60e8f25)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.4 — OGL shader warp + velocity skew (Lenis-driven) (#229) (#237)](https://github.com/kanitmann01/profile-kanitmann/commit/60e8f25aa6109d32e4450221435d48f316602758)
+- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.3 — Morphing view transitions (thumbnail → case-study hero) (#228) (#236)](https://github.com/kanitmann01/profile-kanitmann/commit/5f1eef0)
+- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.3 — Morphing view transitions (thumbnail → case-study hero) (#228) (#236)](https://github.com/kanitmann01/profile-kanitmann/commit/5f1eef04be192ccba663199c81edc61fd708de93)
 
-*Last updated: 2026-08-05 00:24 UTC*
+*Last updated: 2026-08-06 00:20 UTC*
 <!-- ACTIVITY_END -->
 
 ---
