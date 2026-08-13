@@ -147,18 +147,9 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: perf(ask): load embeddings lazily from ASSETS binding, not bundled](https://github.com/kanitmann01/profile-kanitmann/commit/85576c3)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: perf(ask): load embeddings lazily from ASSETS binding, not bundled](https://github.com/kanitmann01/profile-kanitmann/commit/85576c3f0af58ae824a4db11b341c305e4455e77)
-- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.2 — NetSTAR loss-landscape scrollytelling (CSS scroll-driven + d3) (#227) (#239)](https://github.com/kanitmann01/profile-kanitmann/commit/cc68911)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.2 — NetSTAR loss-landscape scrollytelling (CSS scroll-driven + d3) (#227) (#239)](https://github.com/kanitmann01/profile-kanitmann/commit/cc689113acdd8995a42c27ab95e4a36bfb1895f8)
-- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.1 — Grounded portfolio agent (RAG over Workers AI, cited, Turnstile-gated) (#226) (#238)](https://github.com/kanitmann01/profile-kanitmann/commit/e59b7a5)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.1 — Grounded portfolio agent (RAG over Workers AI, cited, Turnstile-gated) (#226) (#238)](https://github.com/kanitmann01/profile-kanitmann/commit/e59b7a5173a45ddacb91da7c9fc9e31fbd4dea87)
-- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.4 — OGL shader warp + velocity skew (Lenis-driven) (#229) (#237)](https://github.com/kanitmann01/profile-kanitmann/commit/60e8f25)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.4 — OGL shader warp + velocity skew (Lenis-driven) (#229) (#237)](https://github.com/kanitmann01/profile-kanitmann/commit/60e8f25aa6109d32e4450221435d48f316602758)
-- 🔨 **Aug 05, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Wave E.3 — Morphing view transitions (thumbnail → case-study hero) (#228) (#236)](https://github.com/kanitmann01/profile-kanitmann/commit/5f1eef0)
-- 🚀 **Aug 05, 2026** — [Updated `kanitmann01/profile-kanitmann`: Wave E.3 — Morphing view transitions (thumbnail → case-study hero) (#228) (#236)](https://github.com/kanitmann01/profile-kanitmann/commit/5f1eef04be192ccba663199c81edc61fd708de93)
+No recent activity to show.
 
-*Last updated: 2026-08-12 00:15 UTC*
+*Last updated: 2026-08-13 00:16 UTC*
 <!-- ACTIVITY_END -->
 
 ---
