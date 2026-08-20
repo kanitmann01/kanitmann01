@@ -141,15 +141,16 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 52 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 53 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Aug 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Coforge Associate FDE role + job-market availability sunset (#247)](https://github.com/kanitmann01/profile-kanitmann/commit/90fc125)
+- 🚀 **Aug 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: Coforge Associate FDE role + job-market availability sunset (#247)](https://github.com/kanitmann01/profile-kanitmann/commit/90fc125f8e5565e141805450ba46f8bde40cf3d7)
 
-*Last updated: 2026-08-19 00:06 UTC*
+*Last updated: 2026-08-20 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
