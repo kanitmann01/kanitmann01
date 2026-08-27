@@ -151,10 +151,8 @@ No recent posts available.
 - 🚀 **Aug 23, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(ask): ship Ask Kanit dark — comment out all entry points](https://github.com/kanitmann01/profile-kanitmann/commit/4d99628ff83586065af84492d0ed834710b818f1)
 - 🔨 **Aug 23, 2026** — [Committed to `kanitmann01/profile-kanitmann`: style(ui): aesthetic + accessibility polish patch](https://github.com/kanitmann01/profile-kanitmann/commit/9d2dc60)
 - 🚀 **Aug 23, 2026** — [Updated `kanitmann01/profile-kanitmann`: style(ui): aesthetic + accessibility polish patch](https://github.com/kanitmann01/profile-kanitmann/commit/9d2dc60e25a10430d9ff64a856c6fab8847a9fd7)
-- 🔨 **Aug 18, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Coforge Associate FDE role + job-market availability sunset (#247)](https://github.com/kanitmann01/profile-kanitmann/commit/90fc125)
-- 🚀 **Aug 19, 2026** — [Updated `kanitmann01/profile-kanitmann`: Coforge Associate FDE role + job-market availability sunset (#247)](https://github.com/kanitmann01/profile-kanitmann/commit/90fc125f8e5565e141805450ba46f8bde40cf3d7)
 
-*Last updated: 2026-08-26 00:07 UTC*
+*Last updated: 2026-08-27 01:15 UTC*
 <!-- ACTIVITY_END -->
 
 ---
