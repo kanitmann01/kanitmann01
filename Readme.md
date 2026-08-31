@@ -151,12 +151,8 @@ No recent posts available.
 - 🚀 **Aug 28, 2026** — [Updated `kanitmann01/profile-kanitmann`: revert(articles): restore original three-line-skill cover screenshot (#253) (#255)](https://github.com/kanitmann01/profile-kanitmann/commit/04e518a251dfcb1a71190081762d843c3aaf7dff)
 - 🔨 **Aug 27, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Visual-review fix sweep: TOC ids, contact location, hero scrim, article cover (#254)](https://github.com/kanitmann01/profile-kanitmann/commit/c973715)
 - 🚀 **Aug 28, 2026** — [Updated `kanitmann01/profile-kanitmann`: Visual-review fix sweep: TOC ids, contact location, hero scrim, article cover (#254)](https://github.com/kanitmann01/profile-kanitmann/commit/c9737155b53741c2fc48d2a3c9aa3a9833454d3a)
-- 🔨 **Aug 23, 2026** — [Committed to `kanitmann01/profile-kanitmann`: feat(ask): ship Ask Kanit dark — comment out all entry points](https://github.com/kanitmann01/profile-kanitmann/commit/4d99628)
-- 🚀 **Aug 23, 2026** — [Updated `kanitmann01/profile-kanitmann`: feat(ask): ship Ask Kanit dark — comment out all entry points](https://github.com/kanitmann01/profile-kanitmann/commit/4d99628ff83586065af84492d0ed834710b818f1)
-- 🔨 **Aug 23, 2026** — [Committed to `kanitmann01/profile-kanitmann`: style(ui): aesthetic + accessibility polish patch](https://github.com/kanitmann01/profile-kanitmann/commit/9d2dc60)
-- 🚀 **Aug 23, 2026** — [Updated `kanitmann01/profile-kanitmann`: style(ui): aesthetic + accessibility polish patch](https://github.com/kanitmann01/profile-kanitmann/commit/9d2dc60e25a10430d9ff64a856c6fab8847a9fd7)
 
-*Last updated: 2026-08-30 00:12 UTC*
+*Last updated: 2026-08-31 00:12 UTC*
 <!-- ACTIVITY_END -->
 
 ---
