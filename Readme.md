@@ -141,18 +141,15 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 17 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 5 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Aug 27, 2026** — [Committed to `kanitmann01/profile-kanitmann`: revert(articles): restore original three-line-skill cover screenshot (#253) (#255)](https://github.com/kanitmann01/profile-kanitmann/commit/04e518a)
-- 🚀 **Aug 28, 2026** — [Updated `kanitmann01/profile-kanitmann`: revert(articles): restore original three-line-skill cover screenshot (#253) (#255)](https://github.com/kanitmann01/profile-kanitmann/commit/04e518a251dfcb1a71190081762d843c3aaf7dff)
-- 🔨 **Aug 27, 2026** — [Committed to `kanitmann01/profile-kanitmann`: Visual-review fix sweep: TOC ids, contact location, hero scrim, article cover (#254)](https://github.com/kanitmann01/profile-kanitmann/commit/c973715)
-- 🚀 **Aug 28, 2026** — [Updated `kanitmann01/profile-kanitmann`: Visual-review fix sweep: TOC ids, contact location, hero scrim, article cover (#254)](https://github.com/kanitmann01/profile-kanitmann/commit/c9737155b53741c2fc48d2a3c9aa3a9833454d3a)
+No recent activity to show.
 
-*Last updated: 2026-09-04 00:10 UTC*
+*Last updated: 2026-09-05 00:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
