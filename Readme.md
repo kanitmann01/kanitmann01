@@ -141,15 +141,20 @@ No recent posts available.
 
 ### Active Repositories
 
+- [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
 - [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 5 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Redesign course UI: oxford/warm-paper/ochre identity, component layer, rebuilt landing](https://github.com/kanitmann01/IMAT/commit/51dca7a)
+- 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Restructure site course-first: math deep-dives nested under Mathematics (M01-M03)](https://github.com/kanitmann01/IMAT/commit/5857cdd)
+- 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Fix deployed course hub: modules dropdown (and all runtime views) now render](https://github.com/kanitmann01/IMAT/commit/c38de63)
+- 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Add full Cracking_IMAT course (26 lessons + 26 PPTX decks) and CC BY-NC-ND 4.0 license](https://github.com/kanitmann01/IMAT/commit/82489e6)
+- 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: IMAT math notes: algebra/sets + functions notes, 5-deck flashcard app, Pages-ready hub](https://github.com/kanitmann01/IMAT/commit/ec7c8fa)
 
-*Last updated: 2026-09-13 00:11 UTC*
+*Last updated: 2026-09-14 00:12 UTC*
 <!-- ACTIVITY_END -->
 
 ---
