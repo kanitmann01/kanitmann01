@@ -142,13 +142,17 @@ No recent posts available.
 ### Active Repositories
 
 - [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 5 commits
+- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 4 commits
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 3 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: E2E final gate results: 15/15 flows pass on live deployment](https://github.com/kanitmann01/imat-exams/commit/fa73b23)
+- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: Audit fixes: live navigator counters, toolbar hidden under modal, SW network-first for code, chart x-axis dates + 1dp ticks, card button alignment, overflow-x clip, mobile padding, checkbox touch targets, GK label normalization](https://github.com/kanitmann01/imat-exams/commit/7be18d2)
+- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: IMAT Exam Platform v1: SPA runner (resume, autosave, kind/strict timer), 10 scrubbed+rebalanced banks, history/reattempt/compare/analytics, legacy import, optional Supabase sync, PWA-lite, unit tests](https://github.com/kanitmann01/imat-exams/commit/dcf0778)
 - 🔨 **Sep 17, 2026** — [Committed to `kanitmann01/imat-mocks-2026`: IMAT exam-grade mocks 6-8: 3 self-contained 60-Q exams + markdown sources](https://github.com/kanitmann01/imat-mocks-2026/commit/471cdec)
 - 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Redesign course UI: oxford/warm-paper/ochre identity, component layer, rebuilt landing](https://github.com/kanitmann01/IMAT/commit/51dca7a)
 - 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Restructure site course-first: math deep-dives nested under Mathematics (M01-M03)](https://github.com/kanitmann01/IMAT/commit/5857cdd)
@@ -156,7 +160,7 @@ No recent posts available.
 - 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: Add full Cracking_IMAT course (26 lessons + 26 PPTX decks) and CC BY-NC-ND 4.0 license](https://github.com/kanitmann01/IMAT/commit/82489e6)
 - 🔨 **Sep 13, 2026** — [Committed to `kanitmann01/IMAT`: IMAT math notes: algebra/sets + functions notes, 5-deck flashcard app, Pages-ready hub](https://github.com/kanitmann01/IMAT/commit/ec7c8fa)
 
-*Last updated: 2026-09-18 00:10 UTC*
+*Last updated: 2026-09-19 00:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
