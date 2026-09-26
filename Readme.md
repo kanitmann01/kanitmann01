@@ -141,7 +141,7 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 6 commits
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 7 commits
 - [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
 - [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 2 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
@@ -150,14 +150,12 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Sep 25, 2026** — [Committed to `kanitmann01/imat-exams`: Tablet/touch accessibility pass](https://github.com/kanitmann01/imat-exams/commit/15d663f)
 - 🔨 **Sep 24, 2026** — [Committed to `kanitmann01/imat-exams`: Add Mocks 10-11 in the 2026 decree format; remove auto-submit](https://github.com/kanitmann01/imat-exams/commit/85685f6)
 - 🔨 **Sep 20, 2026** — [Committed to `kanitmann01/imat-exams`: Add GK question bank: 60 Q medium-hard, weighted to real IMAT lean](https://github.com/kanitmann01/imat-exams/commit/26a9553)
 - 🔨 **Sep 20, 2026** — [Committed to `kanitmann01/imat-exams`: Add mock 9 and three hard question banks: bio 130Q, chem 65Q, maths/physics/logic 95Q](https://github.com/kanitmann01/imat-exams/commit/7b367ce)
-- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: E2E final gate results: 15/15 flows pass on live deployment](https://github.com/kanitmann01/imat-exams/commit/fa73b23)
-- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: Audit fixes: live navigator counters, toolbar hidden under modal, SW network-first for code, chart x-axis dates + 1dp ticks, card button alignment, overflow-x clip, mobile padding, checkbox touch targets, GK label normalization](https://github.com/kanitmann01/imat-exams/commit/7be18d2)
-- 🔨 **Sep 18, 2026** — [Committed to `kanitmann01/imat-exams`: IMAT Exam Platform v1: SPA runner (resume, autosave, kind/strict timer), 10 scrubbed+rebalanced banks, history/reattempt/compare/analytics, legacy import, optional Supabase sync, PWA-lite, unit tests](https://github.com/kanitmann01/imat-exams/commit/dcf0778)
 
-*Last updated: 2026-09-25 00:11 UTC*
+*Last updated: 2026-09-26 00:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
