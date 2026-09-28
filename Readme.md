@@ -141,21 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 7 commits
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
 - [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
-- [kanitmann01/profile-kanitmann](https://github.com/kanitmann01/profile-kanitmann) — 2 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Fully worked step-by-step solutions for all quantitative and logic items](https://github.com/kanitmann01/imat-exams/commit/4979174)
+- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Rework paper PDFs: answer + worked solution box under every question](https://github.com/kanitmann01/imat-exams/commit/e234ac0)
+- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Worked solutions for every paper; fix Mock 5 Q4 key and Mock 1 Q43 option](https://github.com/kanitmann01/imat-exams/commit/5ee7d3b)
+- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Add legacy mock10/11 banks, printable PDFs for all papers, papers index page](https://github.com/kanitmann01/imat-exams/commit/bac2d11)
+- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Order Mock 10 before Mock 11 on Home grid](https://github.com/kanitmann01/imat-exams/commit/69c84ff)
+- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Replace Mock 10/11 with final calibrated papers modeled on real IMAT 2025](https://github.com/kanitmann01/imat-exams/commit/28ab984)
 - 🔨 **Sep 25, 2026** — [Committed to `kanitmann01/imat-exams`: Tablet/touch accessibility pass](https://github.com/kanitmann01/imat-exams/commit/15d663f)
 - 🔨 **Sep 24, 2026** — [Committed to `kanitmann01/imat-exams`: Add Mocks 10-11 in the 2026 decree format; remove auto-submit](https://github.com/kanitmann01/imat-exams/commit/85685f6)
-- 🔨 **Sep 20, 2026** — [Committed to `kanitmann01/imat-exams`: Add GK question bank: 60 Q medium-hard, weighted to real IMAT lean](https://github.com/kanitmann01/imat-exams/commit/26a9553)
-- 🔨 **Sep 20, 2026** — [Committed to `kanitmann01/imat-exams`: Add mock 9 and three hard question banks: bio 130Q, chem 65Q, maths/physics/logic 95Q](https://github.com/kanitmann01/imat-exams/commit/7b367ce)
 
-*Last updated: 2026-09-27 00:12 UTC*
+*Last updated: 2026-09-28 00:12 UTC*
 <!-- ACTIVITY_END -->
 
 ---
