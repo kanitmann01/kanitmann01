@@ -156,9 +156,8 @@ No recent posts available.
 - 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Order Mock 10 before Mock 11 on Home grid](https://github.com/kanitmann01/imat-exams/commit/69c84ff)
 - 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Replace Mock 10/11 with final calibrated papers modeled on real IMAT 2025](https://github.com/kanitmann01/imat-exams/commit/28ab984)
 - 🔨 **Sep 25, 2026** — [Committed to `kanitmann01/imat-exams`: Tablet/touch accessibility pass](https://github.com/kanitmann01/imat-exams/commit/15d663f)
-- 🔨 **Sep 24, 2026** — [Committed to `kanitmann01/imat-exams`: Add Mocks 10-11 in the 2026 decree format; remove auto-submit](https://github.com/kanitmann01/imat-exams/commit/85685f6)
 
-*Last updated: 2026-10-01 00:13 UTC*
+*Last updated: 2026-10-02 00:11 UTC*
 <!-- ACTIVITY_END -->
 
 ---
