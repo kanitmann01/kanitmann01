@@ -141,6 +141,7 @@ No recent posts available.
 
 ### Active Repositories
 
+- [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
 - [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
@@ -149,15 +150,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Fully worked step-by-step solutions for all quantitative and logic items](https://github.com/kanitmann01/imat-exams/commit/4979174)
-- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Rework paper PDFs: answer + worked solution box under every question](https://github.com/kanitmann01/imat-exams/commit/e234ac0)
-- 🔨 **Sep 27, 2026** — [Committed to `kanitmann01/imat-exams`: Worked solutions for every paper; fix Mock 5 Q4 key and Mock 1 Q43 option](https://github.com/kanitmann01/imat-exams/commit/5ee7d3b)
-- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Add legacy mock10/11 banks, printable PDFs for all papers, papers index page](https://github.com/kanitmann01/imat-exams/commit/bac2d11)
-- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Order Mock 10 before Mock 11 on Home grid](https://github.com/kanitmann01/imat-exams/commit/69c84ff)
-- 🔨 **Sep 26, 2026** — [Committed to `kanitmann01/imat-exams`: Replace Mock 10/11 with final calibrated papers modeled on real IMAT 2025](https://github.com/kanitmann01/imat-exams/commit/28ab984)
-- 🔨 **Sep 25, 2026** — [Committed to `kanitmann01/imat-exams`: Tablet/touch accessibility pass](https://github.com/kanitmann01/imat-exams/commit/15d663f)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: derive section 8 claims from the traces](https://github.com/kenmann01/it-service-mcp/commit/bb1cd19)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: fix: reflector can no longer echo the prompt placeholder](https://github.com/kenmann01/it-service-mcp/commit/4349d26)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: lead section 2 with the first two commits' code](https://github.com/kenmann01/it-service-mcp/commit/490d587)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: embed the first two commits' code as build evidence](https://github.com/kenmann01/it-service-mcp/commit/5b24b17)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: add build-order and docstring evidence to the submission](https://github.com/kenmann01/it-service-mcp/commit/0ab8308)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: point the submission at the CI run for the fix](https://github.com/kenmann01/it-service-mcp/commit/03c3227)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: rebuild the submission on host ollama and add the desk screenshot](https://github.com/kenmann01/it-service-mcp/commit/a5fa037)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: fix: let grounded non-catalog items reach evaluate_request](https://github.com/kenmann01/it-service-mcp/commit/d45449d)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: submission PDF (9 sections), builder escape and page-break fixes](https://github.com/kenmann01/it-service-mcp/commit/240db63)
+- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: capture 24/24 pool results and CI evidence](https://github.com/kenmann01/it-service-mcp/commit/fae15da)
 
-*Last updated: 2026-10-02 00:11 UTC*
+*Last updated: 2026-10-03 00:11 UTC*
 <!-- ACTIVITY_END -->
 
 ---
