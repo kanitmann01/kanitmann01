@@ -143,6 +143,7 @@ No recent posts available.
 
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
+- [kenmann01/minirag](https://github.com/kenmann01/minirag) — 13 commits
 - [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
 <!-- COMMITS_END -->
@@ -161,7 +162,7 @@ No recent posts available.
 - 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: submission PDF (9 sections), builder escape and page-break fixes](https://github.com/kenmann01/it-service-mcp/commit/240db63)
 - 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: capture 24/24 pool results and CI evidence](https://github.com/kenmann01/it-service-mcp/commit/fae15da)
 
-*Last updated: 2026-10-06 00:11 UTC*
+*Last updated: 2026-10-07 00:12 UTC*
 <!-- ACTIVITY_END -->
 
 ---
