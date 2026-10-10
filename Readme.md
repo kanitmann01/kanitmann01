@@ -153,16 +153,8 @@ No recent posts available.
 
 - 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: derive section 8 claims from the traces](https://github.com/kenmann01/it-service-mcp/commit/bb1cd19)
 - 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: fix: reflector can no longer echo the prompt placeholder](https://github.com/kenmann01/it-service-mcp/commit/4349d26)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: lead section 2 with the first two commits' code](https://github.com/kenmann01/it-service-mcp/commit/490d587)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: embed the first two commits' code as build evidence](https://github.com/kenmann01/it-service-mcp/commit/5b24b17)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: add build-order and docstring evidence to the submission](https://github.com/kenmann01/it-service-mcp/commit/0ab8308)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: point the submission at the CI run for the fix](https://github.com/kenmann01/it-service-mcp/commit/03c3227)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: rebuild the submission on host ollama and add the desk screenshot](https://github.com/kenmann01/it-service-mcp/commit/a5fa037)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: fix: let grounded non-catalog items reach evaluate_request](https://github.com/kenmann01/it-service-mcp/commit/d45449d)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: submission PDF (9 sections), builder escape and page-break fixes](https://github.com/kenmann01/it-service-mcp/commit/240db63)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: capture 24/24 pool results and CI evidence](https://github.com/kenmann01/it-service-mcp/commit/fae15da)
 
-*Last updated: 2026-10-09 00:12 UTC*
+*Last updated: 2026-10-10 00:11 UTC*
 <!-- ACTIVITY_END -->
 
 ---
