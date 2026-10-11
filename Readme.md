@@ -151,10 +151,9 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: docs: derive section 8 claims from the traces](https://github.com/kenmann01/it-service-mcp/commit/bb1cd19)
-- 🔨 **Oct 02, 2026** — [Committed to `kenmann01/it-service-mcp`: fix: reflector can no longer echo the prompt placeholder](https://github.com/kenmann01/it-service-mcp/commit/4349d26)
+No recent activity to show.
 
-*Last updated: 2026-10-10 00:11 UTC*
+*Last updated: 2026-10-11 00:13 UTC*
 <!-- ACTIVITY_END -->
 
 ---
