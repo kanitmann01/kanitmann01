@@ -141,6 +141,7 @@ No recent posts available.
 
 ### Active Repositories
 
+- [kenmann01/insurance-orchestrator](https://github.com/kenmann01/insurance-orchestrator) — 24 commits
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
 - [kenmann01/minirag](https://github.com/kenmann01/minirag) — 13 commits
@@ -151,9 +152,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: docs: regenerate pytest capture at the 61-test suite for section 2 evidence](https://github.com/kenmann01/insurance-orchestrator/commit/c0fd857)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: ci: run the suite with coverage so the 97 percent floor gates every push](https://github.com/kenmann01/insurance-orchestrator/commit/4c5f4ad)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: test: close coverage to 100 percent and enforce a 97 percent floor](https://github.com/kenmann01/insurance-orchestrator/commit/81c7dcb)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: feat: submission builder with captured local evidence](https://github.com/kenmann01/insurance-orchestrator/commit/d33d73e)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: docs: add docstrings to every module, class, and function](https://github.com/kenmann01/insurance-orchestrator/commit/91c3d89)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: test: cover tracer round-trip, env fallback order, run_cases wiring](https://github.com/kenmann01/insurance-orchestrator/commit/213dc5d)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: chore: test hygiene, drop unused sys imports, literal expected cost](https://github.com/kenmann01/insurance-orchestrator/commit/986994d)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: name the policy constants and the health check timeout](https://github.com/kenmann01/insurance-orchestrator/commit/6b61e3d)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: one shared complete_parsed helper for the four agents](https://github.com/kenmann01/insurance-orchestrator/commit/6fdb50e)
+- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: route run_case risk retries through call_with_retry](https://github.com/kenmann01/insurance-orchestrator/commit/fa52b78)
 
-*Last updated: 2026-10-12 00:13 UTC*
+*Last updated: 2026-10-13 00:12 UTC*
 <!-- ACTIVITY_END -->
 
 ---
