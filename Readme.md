@@ -145,7 +145,6 @@ No recent posts available.
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
 - [kenmann01/minirag](https://github.com/kenmann01/minirag) — 13 commits
-- [kanitmann01/IMAT](https://github.com/kanitmann01/IMAT) — 5 commits
 - [kanitmann01/imat-mocks-2026](https://github.com/kanitmann01/imat-mocks-2026) — 1 commit
 <!-- COMMITS_END -->
 
@@ -163,7 +162,7 @@ No recent posts available.
 - 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: one shared complete_parsed helper for the four agents](https://github.com/kenmann01/insurance-orchestrator/commit/6fdb50e)
 - 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: route run_case risk retries through call_with_retry](https://github.com/kenmann01/insurance-orchestrator/commit/fa52b78)
 
-*Last updated: 2026-10-13 00:12 UTC*
+*Last updated: 2026-10-14 00:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
