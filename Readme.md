@@ -143,25 +143,26 @@ No recent posts available.
 
 - [kenmann01/insurance-orchestrator](https://github.com/kenmann01/insurance-orchestrator) — 24 commits
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
-- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 13 commits
+- [kenmann01/aws-upload](https://github.com/kenmann01/aws-upload) — 13 commits
 - [kenmann01/minirag](https://github.com/kenmann01/minirag) — 13 commits
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 10 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: docs: regenerate pytest capture at the 61-test suite for section 2 evidence](https://github.com/kenmann01/insurance-orchestrator/commit/c0fd857)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: ci: run the suite with coverage so the 97 percent floor gates every push](https://github.com/kenmann01/insurance-orchestrator/commit/4c5f4ad)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: test: close coverage to 100 percent and enforce a 97 percent floor](https://github.com/kenmann01/insurance-orchestrator/commit/81c7dcb)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: feat: submission builder with captured local evidence](https://github.com/kenmann01/insurance-orchestrator/commit/d33d73e)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: docs: add docstrings to every module, class, and function](https://github.com/kenmann01/insurance-orchestrator/commit/91c3d89)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: test: cover tracer round-trip, env fallback order, run_cases wiring](https://github.com/kenmann01/insurance-orchestrator/commit/213dc5d)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: chore: test hygiene, drop unused sys imports, literal expected cost](https://github.com/kenmann01/insurance-orchestrator/commit/986994d)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: name the policy constants and the health check timeout](https://github.com/kenmann01/insurance-orchestrator/commit/6b61e3d)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: one shared complete_parsed helper for the four agents](https://github.com/kenmann01/insurance-orchestrator/commit/6fdb50e)
-- 🔨 **Oct 11, 2026** — [Committed to `kenmann01/insurance-orchestrator`: refactor: route run_case risk retries through call_with_retry](https://github.com/kenmann01/insurance-orchestrator/commit/fa52b78)
+- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: docs: pair the validated 8b on-prem run with the 4b refusal in exhibit 6](https://github.com/kenmann01/aws-upload/commit/12eab7b)
+- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: fix: keep the network config block together when printing](https://github.com/kenmann01/aws-upload/commit/178244f)
+- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: chore: stop tracking generated submission.html](https://github.com/kenmann01/aws-upload/commit/aaabf1e)
+- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: chore: enforce a 100 percent coverage floor](https://github.com/kenmann01/aws-upload/commit/272afc5)
+- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: docs: point repo references at the aws-upload remote](https://github.com/kenmann01/aws-upload/commit/866749b)
+- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: submission PDF builder, eight exhibits, visual judge pass (T8)](https://github.com/kenmann01/aws-upload/commit/0fa19f2)
+- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: docs: deployment document and comparison (T7)](https://github.com/kenmann01/aws-upload/commit/ce30c08)
+- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: deploy scripts for simulated AWS and on-prem targets (T6)](https://github.com/kenmann01/aws-upload/commit/26bf73a)
+- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws ECR registry and ECS run-task with IAM enforcement (T5)](https://github.com/kenmann01/aws-upload/commit/d6bf416)
+- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws network placement validator with committed VPC config (T4)](https://github.com/kenmann01/aws-upload/commit/612f69a)
 
-*Last updated: 2026-10-18 00:11 UTC*
+*Last updated: 2026-10-19 00:11 UTC*
 <!-- ACTIVITY_END -->
 
 ---
