@@ -145,7 +145,7 @@ No recent posts available.
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kenmann01/aws-upload](https://github.com/kenmann01/aws-upload) — 13 commits
 - [kenmann01/minirag](https://github.com/kenmann01/minirag) — 13 commits
-- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 10 commits
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 8 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
@@ -162,7 +162,7 @@ No recent posts available.
 - 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws ECR registry and ECS run-task with IAM enforcement (T5)](https://github.com/kenmann01/aws-upload/commit/d6bf416)
 - 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws network placement validator with committed VPC config (T4)](https://github.com/kenmann01/aws-upload/commit/612f69a)
 
-*Last updated: 2026-10-20 00:11 UTC*
+*Last updated: 2026-10-21 00:10 UTC*
 <!-- ACTIVITY_END -->
 
 ---
