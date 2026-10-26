@@ -144,25 +144,15 @@ No recent posts available.
 - [kenmann01/insurance-orchestrator](https://github.com/kenmann01/insurance-orchestrator) — 24 commits
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
 - [kenmann01/aws-upload](https://github.com/kenmann01/aws-upload) — 13 commits
-- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 7 commits
-- [kenmann01/minirag](https://github.com/kenmann01/minirag) — 1 commit
+- [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 6 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: docs: pair the validated 8b on-prem run with the 4b refusal in exhibit 6](https://github.com/kenmann01/aws-upload/commit/12eab7b)
-- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: fix: keep the network config block together when printing](https://github.com/kenmann01/aws-upload/commit/178244f)
-- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: chore: stop tracking generated submission.html](https://github.com/kenmann01/aws-upload/commit/aaabf1e)
-- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: chore: enforce a 100 percent coverage floor](https://github.com/kenmann01/aws-upload/commit/272afc5)
-- 🔨 **Oct 18, 2026** — [Committed to `kenmann01/aws-upload`: docs: point repo references at the aws-upload remote](https://github.com/kenmann01/aws-upload/commit/866749b)
-- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: submission PDF builder, eight exhibits, visual judge pass (T8)](https://github.com/kenmann01/aws-upload/commit/0fa19f2)
-- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: docs: deployment document and comparison (T7)](https://github.com/kenmann01/aws-upload/commit/ce30c08)
-- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: deploy scripts for simulated AWS and on-prem targets (T6)](https://github.com/kenmann01/aws-upload/commit/26bf73a)
-- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws ECR registry and ECS run-task with IAM enforcement (T5)](https://github.com/kenmann01/aws-upload/commit/d6bf416)
-- 🔨 **Oct 17, 2026** — [Committed to `kenmann01/aws-upload`: feat: simaws network placement validator with committed VPC config (T4)](https://github.com/kenmann01/aws-upload/commit/612f69a)
+No recent activity to show.
 
-*Last updated: 2026-10-25 00:11 UTC*
+*Last updated: 2026-10-26 00:11 UTC*
 <!-- ACTIVITY_END -->
 
 ---
