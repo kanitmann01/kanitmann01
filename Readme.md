@@ -143,6 +143,7 @@ No recent posts available.
 
 - [kenmann01/insurance-orchestrator](https://github.com/kenmann01/insurance-orchestrator) — 24 commits
 - [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
+- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 14 commits
 - [kenmann01/aws-upload](https://github.com/kenmann01/aws-upload) — 13 commits
 - [kanitmann01/imat-exams](https://github.com/kanitmann01/imat-exams) — 6 commits
 <!-- COMMITS_END -->
@@ -150,9 +151,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: Merge remote-tracking branch 'origin/main' into pack/p60](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/39699d4)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: Merge remote-tracking branch 'origin/main' into pack/p59](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/d04efd1)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: Merge remote-tracking branch 'origin/main' into pack/p58](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/c8c7395)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: Merge branch 'kenmann01/cof-47-decision-record-limitations-and-roadmap' of https://github.com/ManikandanCoforge/Credit_Card_Dispute into pack/p60](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/be90ca1)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-47] Correct ADR anchors, limitation claims, roadmap PR references and the contribution map](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/a00f945)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-44] Regenerate the scored run from a clean tree at f50c1f4](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/65c8ae8)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-44] Gate proposed exceptions on the no-contract failure, count cases from the list, surface run errors](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/f50c1f4)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-38] Reject denied duplicates and instruction text, widen service wordings, fall back to Source ID](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/4c7f9fa)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: Merge branch 'kenmann01/cof-38-missing-evidence-routing' of https://github.com/ManikandanCoforge/Credit_Card_Dispute into pack/p58](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/c35ce12)
+- 🔨 **Oct 25, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-38] Gate duplicate_charge on confirmed authorization, require only the chosen type's evidence](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/f06791e)
 
-*Last updated: 2026-10-26 00:11 UTC*
+*Last updated: 2026-10-27 00:09 UTC*
 <!-- ACTIVITY_END -->
 
 ---
