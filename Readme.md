@@ -141,17 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kenmann01/insurance-orchestrator](https://github.com/kenmann01/insurance-orchestrator) — 24 commits
-- [kenmann01/it-service-mcp](https://github.com/kenmann01/it-service-mcp) — 18 commits
-- [kenmann01/aws-upload](https://github.com/kenmann01/aws-upload) — 13 commits
+- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 100 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] State the pilot's custody gap and add the API walkthrough](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/f7142ee)
+- 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Make a live model run one command](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/9cbca5c)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Publish the AWS pilot deployment artifacts](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/e4c700f)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-39] Close the breaker when a probe gets a 404 answer](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/8001822)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-39] Cite the procedure when the model names no type and correct L11](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/d8c4a2a)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Rebuild the deck from the refused-write source](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/8a21d90)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-42] Refuse a journal that is not UTF-8 text](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/882d83f)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-39] Require the customer to name the purchase, not the card](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/3a55409)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-34] Republish every eval artifact on main](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/598de7d)
+- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-34] Republish the dev eval report from main.](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/1338540)
 
-*Last updated: 2026-10-30 00:08 UTC*
+*Last updated: 2026-10-31 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
