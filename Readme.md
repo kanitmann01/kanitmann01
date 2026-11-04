@@ -141,12 +141,15 @@ No recent posts available.
 
 ### Active Repositories
 
-- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 100 commits
+- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 98 commits
+- [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — 2 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Nov 01, 2026** — [Committed to `FuRongJun-1999/dsh-memory`: docs: state that Chinese is the source of truth](https://github.com/FuRongJun-1999/dsh-memory/commit/da7dce5)
+- 🔨 **Nov 01, 2026** — [Committed to `FuRongJun-1999/dsh-memory`: docs: add English translation of user-facing documentation](https://github.com/FuRongJun-1999/dsh-memory/commit/d88be49)
 - 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] State the pilot's custody gap and add the API walkthrough](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/f7142ee)
 - 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Make a live model run one command](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/9cbca5c)
 - 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Publish the AWS pilot deployment artifacts](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/e4c700f)
@@ -155,10 +158,8 @@ No recent posts available.
 - 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Rebuild the deck from the refused-write source](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/8a21d90)
 - 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-42] Refuse a journal that is not UTF-8 text](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/882d83f)
 - 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-39] Require the customer to name the purchase, not the card](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/3a55409)
-- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-34] Republish every eval artifact on main](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/598de7d)
-- 🔨 **Oct 28, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-34] Republish the dev eval report from main.](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/1338540)
 
-*Last updated: 2026-11-03 00:07 UTC*
+*Last updated: 2026-11-04 00:07 UTC*
 <!-- ACTIVITY_END -->
 
 ---
