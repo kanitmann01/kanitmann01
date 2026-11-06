@@ -150,10 +150,8 @@ No recent posts available.
 
 - 🔨 **Nov 01, 2026** — [Committed to `FuRongJun-1999/dsh-memory`: docs: state that Chinese is the source of truth](https://github.com/FuRongJun-1999/dsh-memory/commit/da7dce5)
 - 🔨 **Nov 01, 2026** — [Committed to `FuRongJun-1999/dsh-memory`: docs: add English translation of user-facing documentation](https://github.com/FuRongJun-1999/dsh-memory/commit/d88be49)
-- 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] State the pilot's custody gap and add the API walkthrough](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/f7142ee)
-- 🔨 **Oct 29, 2026** — [Committed to `ManikandanCoforge/Credit_Card_Dispute`: [COF-48] Make a live model run one command](https://github.com/ManikandanCoforge/Credit_Card_Dispute/commit/9cbca5c)
 
-*Last updated: 2026-11-05 00:06 UTC*
+*Last updated: 2026-11-06 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
