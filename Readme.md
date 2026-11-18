@@ -141,16 +141,26 @@ No recent posts available.
 
 ### Active Repositories
 
-- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 98 commits
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 55 commits
+- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 43 commits
 - [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — 2 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-No recent activity to show.
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Memory loop end to end: capture, store, process, remove + Memory page redesign (#132)](https://github.com/kanitmann01/agent-desk/commit/f73c57a)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #131 from kanitmann01/feat/file-selection-and-wizard-fix](https://github.com/kanitmann01/agent-desk/commit/189c317)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Marketplace install/create fixes, Memory provenance graph, hidden input scrollbars (#130)](https://github.com/kanitmann01/agent-desk/commit/0f8d007)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: chore(brand): rename Agent Desk to Nexuus Bot in the UI and docs (#122)](https://github.com/kanitmann01/agent-desk/commit/87f9041)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: feat(ui): Unkey bento desk with Unkey, Coforge and Momentuum blue themes (#121)](https://github.com/kanitmann01/agent-desk/commit/436332c)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Add per-user plugin config and the workbook tracker (#120)](https://github.com/kanitmann01/agent-desk/commit/79172e9)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Audit bundled plugins and spec a personal, configurable set (#119)](https://github.com/kanitmann01/agent-desk/commit/4288247)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #117 from kanitmann01/cursor/ui-ux-polish-51a3](https://github.com/kanitmann01/agent-desk/commit/318b447)
+- 🔨 **Nov 17, 2026** — [Committed to `kanitmann01/agent-desk`: chore: install design, audit, and implementation skills (#118)](https://github.com/kanitmann01/agent-desk/commit/4a30cff)
+- 🔨 **Nov 16, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #116 from kanitmann01/feat/memory-semantic-graph](https://github.com/kanitmann01/agent-desk/commit/727809d)
 
-*Last updated: 2026-11-17 00:06 UTC*
+*Last updated: 2026-11-18 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
