@@ -141,27 +141,25 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 84 commits
-- [ManikandanCoforge/Credit_Card_Dispute](https://github.com/ManikandanCoforge/Credit_Card_Dispute) — 13 commits
-- [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) — 2 commits
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 99 commits
 - [kanitmann01/eval-harness](https://github.com/kanitmann01/eval-harness) — 1 commit
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #174 from kanitmann01/fix/spec-011-land-the-last-two-days](https://github.com/kanitmann01/agent-desk/commit/efe6b8c)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: docs: docstring standard, coverage gate and first documentation batches (#158)](https://github.com/kanitmann01/agent-desk/commit/1ecf0f5)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #146 from kanitmann01/feature/coupled-intelligence](https://github.com/kanitmann01/agent-desk/commit/32e9774)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #147 from kanitmann01/fix-workbook-open-fallback](https://github.com/kanitmann01/agent-desk/commit/bdea01e)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: test: a rendered card draws its press, and its values are escaped](https://github.com/kanitmann01/agent-desk/commit/62cef1f)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: docs: spec 010 is done, with the gate truth it ran under](https://github.com/kanitmann01/agent-desk/commit/0a77845)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: docs: tickets 02-06 are done, with the frontend gate result they did not have](https://github.com/kanitmann01/agent-desk/commit/7dfa9b6)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: feat: a pressed reply finds its thread and stages one card](https://github.com/kanitmann01/agent-desk/commit/a0cdf8b)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: test: an explanation page shows its disclosure before the model's sentence](https://github.com/kanitmann01/agent-desk/commit/bad31c4)
-- 🔨 **Nov 18, 2026** — [Committed to `kanitmann01/agent-desk`: feat: the desk draws its reading and its press in the app shell](https://github.com/kanitmann01/agent-desk/commit/c96db2b)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #187 from kanitmann01/feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/71992fb)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: build: rebuild the committed SPA bundle for the review findings](https://github.com/kanitmann01/agent-desk/commit/7096164)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge branch 'feat/review-f4-f5-vocabulary-reading' into feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/89767e6)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge remote-tracking branch 'origin/main' into feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/6e3045c)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: structured reading blocks instead of phrase tables](https://github.com/kanitmann01/agent-desk/commit/20e6fc0)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: merge: derive both dashboard surfaces from one state](https://github.com/kanitmann01/agent-desk/commit/4a12dc5)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: derive both dashboard surfaces from one state](https://github.com/kanitmann01/agent-desk/commit/9d9fc5b)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: dispatch the dashboard routes from one table](https://github.com/kanitmann01/agent-desk/commit/7d3b4aa)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: one owner for the plugin element vocabulary](https://github.com/kanitmann01/agent-desk/commit/629876d)
+- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #186 from kanitmann01/docs/readme-agents-loop-insight](https://github.com/kanitmann01/agent-desk/commit/48b3a8b)
 
-*Last updated: 2026-11-19 00:07 UTC*
+*Last updated: 2026-11-20 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
