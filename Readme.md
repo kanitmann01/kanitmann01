@@ -148,18 +148,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #187 from kanitmann01/feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/71992fb)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: build: rebuild the committed SPA bundle for the review findings](https://github.com/kanitmann01/agent-desk/commit/7096164)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge branch 'feat/review-f4-f5-vocabulary-reading' into feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/89767e6)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge remote-tracking branch 'origin/main' into feat/review-findings-wave](https://github.com/kanitmann01/agent-desk/commit/6e3045c)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: structured reading blocks instead of phrase tables](https://github.com/kanitmann01/agent-desk/commit/20e6fc0)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: merge: derive both dashboard surfaces from one state](https://github.com/kanitmann01/agent-desk/commit/4a12dc5)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: derive both dashboard surfaces from one state](https://github.com/kanitmann01/agent-desk/commit/9d9fc5b)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: dispatch the dashboard routes from one table](https://github.com/kanitmann01/agent-desk/commit/7d3b4aa)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: refactor: one owner for the plugin element vocabulary](https://github.com/kanitmann01/agent-desk/commit/629876d)
-- 🔨 **Nov 19, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #186 from kanitmann01/docs/readme-agents-loop-insight](https://github.com/kanitmann01/agent-desk/commit/48b3a8b)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #189 from kanitmann01/feat/retire-plugin-set](https://github.com/kanitmann01/agent-desk/commit/b79afbf)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: pin the retired archive's count; docs: packs ship empty](https://github.com/kanitmann01/agent-desk/commit/a4d3c64)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: Merge remote-tracking branch 'origin/main' into feat/retire-plugin-set](https://github.com/kanitmann01/agent-desk/commit/16d3c08)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: keep the archive tests off the archive contents](https://github.com/kanitmann01/agent-desk/commit/2a9b3f3)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(registry-ci): let the archive account for a retirement](https://github.com/kanitmann01/agent-desk/commit/4cc901d)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(dashboard): keep the installed plugin cards rendering as before](https://github.com/kanitmann01/agent-desk/commit/d971f06)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: prove the packaged inputs carry no archived plugin](https://github.com/kanitmann01/agent-desk/commit/017407f)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(dashboard): keep the card kinds and previews to the shipped two](https://github.com/kanitmann01/agent-desk/commit/286633b)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: tools: smoke the surviving workbook plugin, not the retired demo](https://github.com/kanitmann01/agent-desk/commit/37bf41b)
+- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(marketplace-ui): say the pack decision once and rebuild the SPA](https://github.com/kanitmann01/agent-desk/commit/21586ec)
 
-*Last updated: 2026-11-20 00:06 UTC*
+*Last updated: 2026-11-21 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
