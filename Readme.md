@@ -148,18 +148,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #189 from kanitmann01/feat/retire-plugin-set](https://github.com/kanitmann01/agent-desk/commit/b79afbf)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: pin the retired archive's count; docs: packs ship empty](https://github.com/kanitmann01/agent-desk/commit/a4d3c64)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: Merge remote-tracking branch 'origin/main' into feat/retire-plugin-set](https://github.com/kanitmann01/agent-desk/commit/16d3c08)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: keep the archive tests off the archive contents](https://github.com/kanitmann01/agent-desk/commit/2a9b3f3)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(registry-ci): let the archive account for a retirement](https://github.com/kanitmann01/agent-desk/commit/4cc901d)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(dashboard): keep the installed plugin cards rendering as before](https://github.com/kanitmann01/agent-desk/commit/d971f06)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: test: prove the packaged inputs carry no archived plugin](https://github.com/kanitmann01/agent-desk/commit/017407f)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(dashboard): keep the card kinds and previews to the shipped two](https://github.com/kanitmann01/agent-desk/commit/286633b)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: tools: smoke the surviving workbook plugin, not the retired demo](https://github.com/kanitmann01/agent-desk/commit/37bf41b)
-- 🔨 **Nov 20, 2026** — [Committed to `kanitmann01/agent-desk`: fix(marketplace-ui): say the pack decision once and rebuild the SPA](https://github.com/kanitmann01/agent-desk/commit/21586ec)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #253 from kanitmann01/ticket/017-11-lean-sweep](https://github.com/kanitmann01/agent-desk/commit/465884f)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #251 from kanitmann01/spec018/byok](https://github.com/kanitmann01/agent-desk/commit/8e91fae)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #250 from kanitmann01/ticket/017-09-nudges-budget](https://github.com/kanitmann01/agent-desk/commit/fbe7d30)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #249 from kanitmann01/ticket/017-render-posix-paths](https://github.com/kanitmann01/agent-desk/commit/97e03bc)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #248 from kanitmann01/ticket/017-08-naming-copy](https://github.com/kanitmann01/agent-desk/commit/785a6fb)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #247 from kanitmann01/ticket/017-07-unknown-routes](https://github.com/kanitmann01/agent-desk/commit/c0f90ea)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #246 from kanitmann01/ticket/017-03-audit-trail](https://github.com/kanitmann01/agent-desk/commit/dc8b743)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #245 from kanitmann01/ticket/017-06-gate-integrity](https://github.com/kanitmann01/agent-desk/commit/3bfdb2b)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #243 from kanitmann01/ticket/017-12-presentation-tests](https://github.com/kanitmann01/agent-desk/commit/2b21937)
+- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #242 from kanitmann01/ticket/017-10-frontend-fixes](https://github.com/kanitmann01/agent-desk/commit/9418699)
 
-*Last updated: 2026-11-21 00:06 UTC*
+*Last updated: 2026-11-22 00:07 UTC*
 <!-- ACTIVITY_END -->
 
 ---
