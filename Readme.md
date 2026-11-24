@@ -141,25 +141,25 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 99 commits
-- [kanitmann01/eval-harness](https://github.com/kanitmann01/eval-harness) — 1 commit
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 49 commits
+- [kanitmann01/agent-desk-core](https://github.com/kanitmann01/agent-desk-core) — 2 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #269 from kanitmann01/ticket/016-09-profile](https://github.com/kanitmann01/agent-desk/commit/3b4afea)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #268 from kanitmann01/ticket/016-08-topics](https://github.com/kanitmann01/agent-desk/commit/dcfefe3)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #270 from kanitmann01/ticket/016-11-update](https://github.com/kanitmann01/agent-desk/commit/ecd89d7)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #267 from kanitmann01/ticket/016-06-rank](https://github.com/kanitmann01/agent-desk/commit/881f409)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #264 from kanitmann01/ticket/016-04-agentloop](https://github.com/kanitmann01/agent-desk/commit/b2a1d51)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #266 from kanitmann01/ticket/016-07-meeting-prep](https://github.com/kanitmann01/agent-desk/commit/66d7ca1)
-- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #261 from kanitmann01/ticket/016-05-recommend](https://github.com/kanitmann01/agent-desk/commit/fba5271)
-- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #262 from kanitmann01/spec018/byok-ux](https://github.com/kanitmann01/agent-desk/commit/63481f5)
-- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #252 from kanitmann01/ticket/016-03-selfheal](https://github.com/kanitmann01/agent-desk/commit/f0217d3)
-- 🔨 **Nov 21, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #253 from kanitmann01/ticket/017-11-lean-sweep](https://github.com/kanitmann01/agent-desk/commit/465884f)
+- 🔨 **Nov 23, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #2 from kanitmann01/feat/presentation-tools](https://github.com/kanitmann01/agent-desk-core/commit/cfbc793)
+- 🔨 **Nov 23, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #1 from kanitmann01/fix/audit-must-fixes](https://github.com/kanitmann01/agent-desk-core/commit/48aaec8)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #271 from kanitmann01/fix/016-agentloop-order](https://github.com/kanitmann01/agent-desk/commit/7720c04)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #271 from kanitmann01/fix/016-agentloop-order](https://github.com/kanitmann01/agent-desk-core/commit/7720c04)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #265 from kanitmann01/ticket/016-10-skills](https://github.com/kanitmann01/agent-desk/commit/79297e5)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #265 from kanitmann01/ticket/016-10-skills](https://github.com/kanitmann01/agent-desk-core/commit/79297e5)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: evidence: the 016-10 gate at the undo-fix head (spec 016 #200)](https://github.com/kanitmann01/agent-desk/commit/0d4f839)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: evidence: the 016-10 gate at the undo-fix head (spec 016 #200)](https://github.com/kanitmann01/agent-desk-core/commit/0d4f839)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: fix(ledger): the skill-state undo returns its inverse entry (spec 016 #200)](https://github.com/kanitmann01/agent-desk/commit/c032209)
+- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: fix(ledger): the skill-state undo returns its inverse entry (spec 016 #200)](https://github.com/kanitmann01/agent-desk-core/commit/c032209)
 
-*Last updated: 2026-11-23 00:07 UTC*
+*Last updated: 2026-11-24 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
