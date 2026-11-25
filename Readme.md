@@ -141,25 +141,25 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 49 commits
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 53 commits
 - [kanitmann01/agent-desk-core](https://github.com/kanitmann01/agent-desk-core) — 2 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 23, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #2 from kanitmann01/feat/presentation-tools](https://github.com/kanitmann01/agent-desk-core/commit/cfbc793)
-- 🔨 **Nov 23, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #1 from kanitmann01/fix/audit-must-fixes](https://github.com/kanitmann01/agent-desk-core/commit/48aaec8)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #271 from kanitmann01/fix/016-agentloop-order](https://github.com/kanitmann01/agent-desk/commit/7720c04)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #271 from kanitmann01/fix/016-agentloop-order](https://github.com/kanitmann01/agent-desk-core/commit/7720c04)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #265 from kanitmann01/ticket/016-10-skills](https://github.com/kanitmann01/agent-desk/commit/79297e5)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #265 from kanitmann01/ticket/016-10-skills](https://github.com/kanitmann01/agent-desk-core/commit/79297e5)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: evidence: the 016-10 gate at the undo-fix head (spec 016 #200)](https://github.com/kanitmann01/agent-desk/commit/0d4f839)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: evidence: the 016-10 gate at the undo-fix head (spec 016 #200)](https://github.com/kanitmann01/agent-desk-core/commit/0d4f839)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk`: fix(ledger): the skill-state undo returns its inverse entry (spec 016 #200)](https://github.com/kanitmann01/agent-desk/commit/c032209)
-- 🔨 **Nov 22, 2026** — [Committed to `kanitmann01/agent-desk-core`: fix(ledger): the skill-state undo returns its inverse entry (spec 016 #200)](https://github.com/kanitmann01/agent-desk-core/commit/c032209)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #302 from kanitmann01/fix/spa-bundle-matches-source](https://github.com/kanitmann01/agent-desk/commit/f31582a)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #301 from kanitmann01/feature/executive-plugin-wizard](https://github.com/kanitmann01/agent-desk/commit/ec7e3c0)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #5 from kanitmann01/arch/deepening-2026-11-24](https://github.com/kanitmann01/agent-desk-core/commit/23c4641)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge fix: an empty calendar override means no calendar (#300)](https://github.com/kanitmann01/agent-desk/commit/10ad67b)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge 024: a tracker tile that follows a metric over time (#299)](https://github.com/kanitmann01/agent-desk/commit/52c3085)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge PR #294: parallel tests and CI caches](https://github.com/kanitmann01/agent-desk/commit/ff1e446)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge PR #293: the engine boundary (023-3)](https://github.com/kanitmann01/agent-desk/commit/c94c6fd)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge PR #291: act now (023-2)](https://github.com/kanitmann01/agent-desk/commit/e4c77af)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge PR #290: the connect step (023-1)](https://github.com/kanitmann01/agent-desk/commit/ec56c40)
+- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #6 from kanitmann01/spec024/outlook-feeder](https://github.com/kanitmann01/agent-desk-core/commit/675a4a6)
 
-*Last updated: 2026-11-24 00:06 UTC*
+*Last updated: 2026-11-25 00:07 UTC*
 <!-- ACTIVITY_END -->
 
 ---
