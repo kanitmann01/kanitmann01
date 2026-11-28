@@ -141,25 +141,24 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 56 commits
-- [kanitmann01/agent-desk-core](https://github.com/kanitmann01/agent-desk-core) — 2 commits
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 60 commits
 <!-- COMMITS_END -->
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #372 from kanitmann01/fix/stale-metric-live-label](https://github.com/kanitmann01/agent-desk/commit/c6aeb3d)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #370 from kanitmann01/fix/audit-new-p1-search-and-fill-button](https://github.com/kanitmann01/agent-desk/commit/91d34c7)
+- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #369 from kanitmann01/fix/audit-3b-inert-tools](https://github.com/kanitmann01/agent-desk/commit/0132531)
+- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #371 from kanitmann01/fix/stale-metric-live-label](https://github.com/kanitmann01/agent-desk/commit/3165c55)
+- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #367 from kanitmann01/fix/audit-3d-slow-run](https://github.com/kanitmann01/agent-desk/commit/3f099e0)
+- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #365 from kanitmann01/merge/bring-core-home](https://github.com/kanitmann01/agent-desk/commit/0f29028)
+- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #364 from kanitmann01/docs/spec-032](https://github.com/kanitmann01/agent-desk/commit/b396694)
 - 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #352 from kanitmann01/feat/audit-face-walk](https://github.com/kanitmann01/agent-desk/commit/e53c591)
 - 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #348 from kanitmann01/fix/sample-client-name](https://github.com/kanitmann01/agent-desk/commit/68044fc)
 - 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #349 from kanitmann01/fix/audit-instruments-safe-b](https://github.com/kanitmann01/agent-desk/commit/954a31b)
-- 🔨 **Nov 25, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #345 from kanitmann01/fix/pre-audit-small-fixes](https://github.com/kanitmann01/agent-desk/commit/2b6de32)
-- 🔨 **Nov 25, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #319 from kanitmann01/fix/ui-text-overflow](https://github.com/kanitmann01/agent-desk/commit/37515e9)
-- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #302 from kanitmann01/fix/spa-bundle-matches-source](https://github.com/kanitmann01/agent-desk/commit/f31582a)
-- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #301 from kanitmann01/feature/executive-plugin-wizard](https://github.com/kanitmann01/agent-desk/commit/ec7e3c0)
-- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk-core`: Merge pull request #5 from kanitmann01/arch/deepening-2026-11-24](https://github.com/kanitmann01/agent-desk-core/commit/23c4641)
-- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge fix: an empty calendar override means no calendar (#300)](https://github.com/kanitmann01/agent-desk/commit/10ad67b)
-- 🔨 **Nov 24, 2026** — [Committed to `kanitmann01/agent-desk`: Merge 024: a tracker tile that follows a metric over time (#299)](https://github.com/kanitmann01/agent-desk/commit/52c3085)
 
-*Last updated: 2026-11-27 00:06 UTC*
+*Last updated: 2026-11-28 00:06 UTC*
 <!-- ACTIVITY_END -->
 
 ---
