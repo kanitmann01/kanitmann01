@@ -1,0 +1,6 @@
+.worktrees/
+.eval-cache/
+.playwright-mcp/
+__pycache__/
+.pytest_cache/
+*.pyc
