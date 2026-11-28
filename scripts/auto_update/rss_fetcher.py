@@ -50,7 +50,7 @@ def format_markdown(entries: List[Dict]) -> str:
     return markdown
 
 
-def fetch_latest_posts(url: str = "https://kanit.codes/rss.xml", max_posts: int = 3) -> str:
+def fetch_latest_posts(url: str = "https://kanitmann.com/rss.xml", max_posts: int = 3) -> str:
     try:
         response = requests.get(url, timeout=10)
         response.raise_for_status()

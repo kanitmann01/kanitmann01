@@ -97,7 +97,9 @@ Seven articles in total at [kanitmann.com/articles](https://kanitmann.com/articl
 <!-- BLOG_POSTS_START -->
 ## 📝 Latest Blog Posts
 
-No recent posts available.
+- [The Fable 5 Digital Museum](https://kanitmann.com/fable-5) (Tue, 09 Jun 2026 00:00:00 GMT)
+- [The Three-Line Skill That Changed Everything](https://kanitmann.com/articles/three-line-skill) (Tue, 09 Jun 2026 00:00:00 GMT)
+- [Technical Blog 3: The Wonderful World of Windows Registry](https://kanitmann.com/articles/technical-blog-3) (Sun, 21 Sep 2025 00:00:00 GMT)
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -109,7 +111,7 @@ No recent posts available.
 
 ### Active Repositories
 
-- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 60 commits
+- [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 65 commits
 <!-- COMMITS_END -->
 
 ---
@@ -120,18 +122,18 @@ No recent posts available.
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
 
-- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #372 from kanitmann01/fix/stale-metric-live-label](https://github.com/kanitmann01/agent-desk/commit/c6aeb3d)
-- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #370 from kanitmann01/fix/audit-new-p1-search-and-fill-button](https://github.com/kanitmann01/agent-desk/commit/91d34c7)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #369 from kanitmann01/fix/audit-3b-inert-tools](https://github.com/kanitmann01/agent-desk/commit/0132531)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #371 from kanitmann01/fix/stale-metric-live-label](https://github.com/kanitmann01/agent-desk/commit/3165c55)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #367 from kanitmann01/fix/audit-3d-slow-run](https://github.com/kanitmann01/agent-desk/commit/3f099e0)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #365 from kanitmann01/merge/bring-core-home](https://github.com/kanitmann01/agent-desk/commit/0f29028)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #364 from kanitmann01/docs/spec-032](https://github.com/kanitmann01/agent-desk/commit/b396694)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #352 from kanitmann01/feat/audit-face-walk](https://github.com/kanitmann01/agent-desk/commit/e53c591)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #348 from kanitmann01/fix/sample-client-name](https://github.com/kanitmann01/agent-desk/commit/68044fc)
-- 🔨 **Nov 26, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #349 from kanitmann01/fix/audit-instruments-safe-b](https://github.com/kanitmann01/agent-desk/commit/954a31b)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #385 from kanitmann01/feat/032-4-generated-plugin](https://github.com/kanitmann01/agent-desk/commit/5a09b3e)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #384 from kanitmann01/feat/032-3-spa-bundle](https://github.com/kanitmann01/agent-desk/commit/3b2cce2)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #377 from kanitmann01/feat/wave1-04-falsify](https://github.com/kanitmann01/agent-desk/commit/65d38e9)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #381 from kanitmann01/feat/wave1-03-anomaly](https://github.com/kanitmann01/agent-desk/commit/bcfa581)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #376 from kanitmann01/feat/wave1-02-snapshots](https://github.com/kanitmann01/agent-desk/commit/52ddc77)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #374 from kanitmann01/feat/wave1-01-provenance](https://github.com/kanitmann01/agent-desk/commit/cd2d481)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #373 from kanitmann01/feat/wave1-planning](https://github.com/kanitmann01/agent-desk/commit/a33ed13)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #387 from kanitmann01/feat/032-2-server-surfaces](https://github.com/kanitmann01/agent-desk/commit/f8c568e)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #382 from kanitmann01/feat/032-1b-guard](https://github.com/kanitmann01/agent-desk/commit/51a1ef7)
+- 🔨 **Nov 27, 2026** — [Committed to `kanitmann01/agent-desk`: Merge pull request #375 from kanitmann01/feat/032-1a-name-contract](https://github.com/kanitmann01/agent-desk/commit/141a943)
 
-*Last updated: 2026-11-28 00:06 UTC*
+*Last updated: 2026-11-28 03:44 UTC*
 <!-- ACTIVITY_END -->
 
 </details>

@@ -16,7 +16,7 @@ GITHUB_API_BASE = "https://api.github.com"
 DEFAULT_USERNAME = "kanitmann01"
 FEATURED_REPOS = ["kanitmann01/profile-kanitmann", "kanitmann01/capstone"]
 MAX_ACTIVITIES = 10
-BLOG_RSS_URL = "https://kanit.codes/rss.xml"
+BLOG_RSS_URL = "https://kanitmann.com/rss.xml"
 
 
 def fetch_recent_commits(days: int = 7, username: str = DEFAULT_USERNAME) -> List[Dict]:
