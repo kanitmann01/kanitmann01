@@ -1,130 +1,96 @@
-<div align="center">
+<h1 align="center">Kanit Mann</h1>
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=60&lines=Data+%26+ML+Engineer;Ex-Ericsson+%C2%B7+Ex-NetSTAR;Building+ML+pipelines;Cloud+Infrastructure;Threat+Intelligence" alt="Typing SVG" />
+<p align="center"><b>Data, ML &amp; AI engineer: models, pipelines, and the dashboards that prove they work</b><br>
+Associate Forward Deployed Engineer at Coforge (Aug 2026 – present) · MS in Data Science, University of Arizona, 2026 · New Jersey, US</p>
 
-</div>
-
----
-
-## About
-
-I'm a **Data & ML Engineer** with hands-on experience building production-grade systems across machine learning, cloud infrastructure, and threat intelligence.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ NetSTAR — ML Engineer
-- Built a **threat intelligence platform** analyzing **1B+ phishing URLs**
-- Engineered ML pipelines for real-time threat detection and classification
-- Developed models to identify malicious domains and brand impersonation
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Ericsson — Cloud/Infra Engineer
-- Led **GCP migration** for enterprise telecom infrastructure
-- Managed **2,000+ servers** across hybrid cloud environments
-- Automated deployment pipelines and infrastructure provisioning
-
-</td>
-</tr>
-</table>
-
-> 🎓 **MS in Data Science | Graduated May 2026**
+<p align="center"><a href="https://kanitmann.com">Portfolio</a> · <a href="https://kanitmann.com/Kanit%20Mann%20-%20Resume.pdf">Resume (PDF)</a> · <a href="mailto:mannkanit@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/kanitmann">LinkedIn</a> · <a href="https://github.com/kanitmann01">GitHub</a></p>
 
 ---
 
-## Tech Stack
+## 📁 Featured Case Studies
 
-<details open>
-<summary><b>Languages</b></summary>
+Systems built end to end. The case studies behind most of them are on [kanitmann.com](https://kanitmann.com/projects), each covering the problem, the approach, the measured outcome, and what I would do differently.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### [Zero-Day Phishing Threat Intelligence Platform](https://kanitmann.com/projects/netstar)
 
-</details>
+*NetSTAR Global · Jan – May 2026 · FastText, XGBoost/LightGBM, Power BI, Docker*
 
-<details open>
-<summary><b>ML & Data Science</b></summary>
+A hybrid detector that combines a FastText text classifier, structured ML models, and distance rules to score brand-spoofing URLs before a client's users reach them. Trained on **1B+** phishing URLs; on a held-out split of 4,409 URLs it reached **96.7% accuracy** and **99.3% precision**, then shipped as an int8 edge model at roughly 5 ms p50 latency.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+### [Scale-Out Migration of 2,000+ Servers to GCP](https://kanitmann.com/projects/ericsson)
 
-</details>
+*Ericsson · Sep 2023 – Dec 2024 · GCP, Citrix, SQL*
 
-<details open>
-<summary><b>Data Platforms & Cloud</b></summary>
+Wave-based migration of **2,000+** production servers into a GCP landing zone, with hybrid security hardening and database automation built during the move rather than after it. Infrastructure cost fell an estimated **30%**, tool uptime held at **99.9%**, and maintenance time dropped **40%**.
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### [Nexuus Bot: a local-first AI workspace](https://github.com/kanitmann01/agent-desk)
 
-</details>
+*Active development · Python, React, SQLite, LLM orchestration*
 
-<details open>
-<summary><b>Visualization & BI</b></summary>
+Your workbook, calendar, mail headers, memory, and agents stay on your machine. It adds a sourced memory graph where every fact cites its source, keychain-backed model keys, and a consent-gated plugin marketplace. An evaluation build in active development, not a released product; the commit history is public.
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### [Unified Bharat: Cross-Sector Policy Lakehouse](https://kanitmann.com/projects/unified-bharat)
 
-</details>
+*Completed May 2026 · Spark, Iceberg, Docker*
 
-<details open>
-<summary><b>Techniques</b></summary>
+Five Indian government datasets (CSR spending, groundwater quality, institutions, district codes, population) reconciled on a Spark and Iceberg medallion architecture, then aggregated into a ~300-row state-year panel, a **99.88%** reduction. Random Forest beat OLS and XGBoost at RMSE 0.811, evidence of a non-linear CSR and environment relationship. Code: [unified-bharat](https://github.com/kanitmann01/unified-bharat).
 
-![A/B Testing](https://img.shields.io/badge/A_B_Testing-00599C?style=for-the-badge&logo=google&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![Causal Inference](https://img.shields.io/badge/Causal_Inference-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### [Real-Time Twitch Analytics Pipeline](https://kanitmann.com/projects/twitch-analytics-pipeline)
 
-</details>
+*Jan 2026 · Kafka, Snowflake, dbt, Looker Studio*
+
+A producer polls the Twitch Helix API every 60 seconds for live AoE2 streams, Kafka buffers the events, Snowflake keeps the raw JSON, and dbt models it for [a live Looker Studio dashboard](https://lookerstudio.google.com/s/jyb_uKEUcmo). Code: [twitch_stat_board](https://github.com/kanitmann01/twitch_stat_board).
+
+Four more case studies (IPUMS wage trends, WTO synthetic control, Titanic predictor, VoiceBridge) are on [kanitmann.com/projects](https://kanitmann.com/projects). GitHub-only work: [Brand Guard](https://github.com/kanitmann01/capstone) (five-signal explainable verdicts; 57/59 day-zero catches where both public blocklist lookups scored 0), [TitanTale Analytics](https://github.com/kanitmann01/TitanTale-Analytics), [aoe2-stats](https://github.com/kanitmann01/aoe2-stats).
 
 ---
 
-## Featured Projects
+## 🧾 Experience
 
-### 🔐 Brand Guard
-**FastAPI capstone for fake brand login detection**
+| Company | Role | Dates | Focus |
+|---|---|---|---|
+| **Coforge** | Associate Forward Deployed Engineer | Aug 2026 – present | AI orchestration and multi-agent frameworks on the Momentuum Blue team; cost-efficient model deployment |
+| **NetSTAR Global** | Machine Learning Engineer | Jan – May 2026 | Zero-day phishing detection: FastText plus a structured ML ensemble, shipped with a Power BI telemetry layer |
+| **Ericsson** | Engineer, Cloud and Infra | Sep 2023 – Dec 2024 | Citrix estate migration to GCP, hybrid security, database automation |
+| **TATA Power** | Full Stack Intern | Jul – Sep 2021 | Internal employee-transfer portal: schema design and prototype |
 
-ML-powered system that detects fraudulent login pages impersonating legitimate brands. Built with FastAPI backend and ML classification pipeline.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=flat-square)
-
-### 🌐 kanit.codes
-**Personal portfolio with tactile feedback system**
-
-Interactive portfolio website featuring a unique tactile feedback system for enhanced user engagement and accessibility.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Fuller detail for each role is on [kanitmann.com/about](https://kanitmann.com/about) and [LinkedIn](https://www.linkedin.com/in/kanitmann).
 
 ---
 
-## Contact
+## ✍️ Writing
 
-<div align="center">
+- [The Three-Line Skill That Changed Everything](https://kanitmann.com/articles/three-line-skill) (Jun 2026): directing coding agents through structured interviews and PRDs instead of fighting them.
+- [Data Visualization Portfolio Reflection](https://kanitmann.com/articles/data-viz-analysis) (Nov 2025): five visuals, and what changed in polish, accessibility, and narrative.
+- [CCRB Allegations Analysis](https://kanitmann.com/articles/ccrb-allegations-analysis) (Sep 2025): a multi-week analysis, starting with the baseline report.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanitmann01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanitmann)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanitmann@arizona.edu)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanit.codes)
+Seven articles in total at [kanitmann.com/articles](https://kanitmann.com/articles).
 
-</div>
+---
+
+## 🧰 Toolbox
+
+**Languages:** Python · SQL · C++ · JavaScript · R  
+**Data & ML:** PyTorch · scikit-learn · pandas · PySpark · TensorFlow · dbt  
+**Cloud & streaming:** GCP · Docker · Kafka · Snowflake · Looker Studio  
+**Methods:** A/B testing · causal inference · ETL/ELT · RAG · LLM evaluation
+
+---
+
+## 📊 GitHub Stats
+
+*975+ commits, 210+ pull requests opened, and 27+ repositories contributed to, across 14 languages. Private work included; the charts refresh daily.*
+
+<p align="center"><img alt="GitHub activity metrics: commits, pull requests, issues, and community stats" src="./github-metrics.svg"><br>
+<img alt="Most used languages: Python, JavaScript, TypeScript, HTML, Jupyter Notebook" src="./github-metrics-languages.svg"></p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
+<img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
 
 ---
 
@@ -133,6 +99,8 @@ Interactive portfolio website featuring a unique tactile feedback system for enh
 
 No recent posts available.
 <!-- BLOG_POSTS_END -->
+
+---
 
 <!-- COMMITS_START -->
 ## 🔨 What I've Been Building
@@ -143,6 +111,11 @@ No recent posts available.
 
 - [kanitmann01/agent-desk](https://github.com/kanitmann01/agent-desk) — 60 commits
 <!-- COMMITS_END -->
+
+---
+
+<details>
+<summary><b>Last 10 commits</b></summary>
 
 <!-- ACTIVITY_START -->
 ## ⚡ Recent Activity
@@ -161,29 +134,17 @@ No recent posts available.
 *Last updated: 2026-11-28 00:06 UTC*
 <!-- ACTIVITY_END -->
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](./github-metrics.svg)
-![Top Languages](./github-metrics-languages.svg)
-
-</div>
+</details>
 
 ---
 
-## 🐍 Snake Animation
+## 📬 Contact
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kanitmann01/kanitmann01/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+<a href="mailto:mannkanit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kanitmann"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/kanitmann01"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://kanitmann.com"><img alt="Portfolio" src="https://img.shields.io/badge/kanitmann.com-0B7285?style=flat-square&logo=googlechrome&logoColor=white"></a>
+</p>
 
----
-
-<div align="center">
-<sub>Built with ❤️ by Kanit Mann</sub>
-</div>
+<p align="center"><i>Resume, case studies, and articles live on kanitmann.com; the blog, commit, and activity sections above update daily from GitHub Actions.</i></p>
